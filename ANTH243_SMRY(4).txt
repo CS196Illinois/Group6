@@ -1,0 +1,954 @@
+[TEXT]
+DNA evidence has transformed forensic science and the criminal justice system. But what are the limits of using DNA as a tool in forensic science? To address this question we need to learn the basic structure of DNA and the rules of inheritance.
+
+Let’s start by simply defining a few terms, and we’ll start with the term heredity. Heredity can simply be defined as the passing of traits to offspring. We can think about this in 2 time scales—a short time scale over just 1 generation or a long time scale involving ancestors that go back millennia.
+
+Another term that we should define is phenotype. A measurable trait of an organism is often referred to as a phenotype. Here we list examples under different categories like disease or behavioral phenotypes.
+
+We can classify phenotypes into 2 types of traits: simple inherited traits and complex inherited traits.
+
+Traits of simple inheritance have the following characteristics: They are monogenic or controlled by only 1 gene. They are binary or discontinuous. And the expression of these traits is not greatly influenced by the environment.
+
+Simple inherited traits represent only a small fraction of all human traits.
+
+A good example of a simple inherited trait is red hair color. Red hair color occurs naturally on approximately 1 to 2% of human populations. It occurs most frequently (at about 2 to 6%) in people of Northwest Europe.
+
+Over 80% of people with red hair in the United Kingdom and Ireland have a DNA variant in the Melanocortin-1 receptor gene, or MC1R for short, and MC1R is located on chromosome 16 of the human genome.
+
+Another example of a trait is eye color. Although eye color is not exactly a simple inherited trait as it is controlled by more than 1 gene. But 1 gene, OCA2, on chromosome 15 predicts a much higher percentage of variation in the eye color than all other genes contributing to eye color. Specifically, light eye color, or blue/green eye color, vs. dark eye color, or brown/black eye color, in Europeans exhibits a geographical cline as shown in Figure 2. And eye color can be predicted in Europeans with around 90% accuracy by testing genes at multiple loci.
+
+Complex inherited traits are influenced by DNA variants at multiple loci. This is called polygenic. Usually exhibits a continuous distribution and are strongly influenced by the environment.
+
+A good example of a complex inherited trait is obesity. Obesity has a strong environmental component that interacts with DNA variants at multiple locations, or loci, in the genome.
+
+Most phenotypes in humans are complex inherited traits. Along with obesity, height, facial morphology, and fingerprints are examples of complex inherited traits in humans as well as many, many others.
+
+Now let’s turn to discussing some basic molecular genetics.
+
+Deoxyribonucleic acid, or DNA, is the molecule that allows for heredity. DNA is found in every cell of your body. Most DNA in a cell is found in the nucleus in 23 pairs of chromosomes. However, a small but significant and important type of DNA is found in the mitochondria of a cell. This is called mitochondrial DNA.
+
+The 3-dimensional structure of DNA was first identified by James Watson and Francis Crick. However, we should note that Rosalind Franklin also made critical contributions that led to the discovery of the structure of DNA. Photos of these individuals are shown on this page.
+
+Now let’s look at Figure 7. Figure 7 shows the structure of the DNA molecule. It consists of 2 strands that run in opposite directions that twist to form a double helix. The latter portion of the molecule that combines or connects the two strands are a result of nitrogen bases pairing up with one another.
+
+Now let’s start with the basic building block of DNA called the nucleotide. A nucleotide consists of a nitrogen-containing base, a 5-carbon sugar, and at least 1 phosphate group as seen in Figure 8.
+
+Figure 9 shows the nitrogen-containing bases of a nucleotide. Purines are nucleotides with double rings called adenine and guanine. Pyrimidines are nucleotides with single rings called cytosine and thymine. There is also a pyrimidine called uracil that we will discuss when talking about ribonucleic acid or RNA.
+
+Figure 10 shows nucleotides that form bonds resulting in a “backbone” of sugars and phosphate groups that alternate. Two of these “backbones” strands run in opposite directions creating a double-strand. The 2 strands of DNA are held together by weak hydrogen bonds between the bases. The hydrogen bonds between the 2 strands form specific base pairing. Adenine with thymine are held together with 2 hydrogen bonds, and guanine with cytosine are held together with 3 hydrogen bonds. Now it is always the case that adenine will pair up with thymine and vice versa—thymine with adenine. And guanine with cytosine and cytosine with guanine. This is called base pairing.
+
+Within the genome, specific nucleotide sequences code for the formation of a protein or proteins that contribute to a phenotype. These DNA sequences are called genes. Genes contain different regions that have different purposes. Genes have regulatory regions, such as promoters, and some of the introns also serve as regulatory regions that help control the amount of protein that the gene will make. Alternatively, exons actually code for specific RNAs that will be translated into amino acids that make up proteins.
+
+Now recall that RNA is also a nucleic acid but has a few differences to DNA. For this class we will focus on 2 of these differences. First, RNA is single stranded, whereas DNA is double-stranded. Another important difference is that RNA has the pyrimidine uracil instead of the pyrimidine thymine which is only found in DNA. So in RNA, adenine’s complement base pair is uracil. Once an RNA strand is formed, called messenger RNA, it is then translated into an amino acid chain that makes up proteins after leaving the nucleus.
+
+Genes actually make up only a very small percentage of the human genome—about 2 percent. Other parts of the genome help regulate how much protein is made from a gene or genes for the purpose of these other parts of the genome are currently unknown. Now the direction of transmission of genetic information is DNA to RNA to protein. Now just this general process is called the central dogma of molecular biology, and this process from DNA to RNA to protein is shown in Figure 12.
+
+Figure 13 shows the human genome in what is called a karyotype. This is when the genome forms paired chromosomes where you inherit 1 chromosome from your mother and 1 chromosome from your father. In a karyotype the paired chromosomes are lined up in an
+
+orderly fashion from largest to smallest, and the chromosomes are strained so that different pairs have different patterns that are identifiable.
+
+Now Figure 14 identifies the sex chromosomes, and this individual shown in Figure 13 is a male since males have 1 X and 1 Y chromosome, whereas females would have 2 X chromosomes.
+
+Meiosis is a special type of cell division for sexually reproducing organisms. Meiosis results in the creation of gametes (that is, sperm and eggs) which combine to form a zygote. Essential to understanding meiosis and sexual reproduction is the concept of ploidy, or the number chromosomes in a set. Humans are what’s called diploid, meaning that we have 23 pairs of chromosomes for a total of 46 chromosomes. Now, it’s the pairs of chromosomes that allows us to be called diploid. However, through meiosis we make gametes, and our gametes are a haploid. And our gametes will only have 1 chromosome per pair for a total of 23 chromosomes.
+
+Now an individual has a 50:50 chance of which chromosome of a pair will end up in a gamete. Because we have 23 pairs of chromosomes, there are 223 or over 8 million possible combinations from that 1 parent. Now, in a couple, a couple could have 223 x 223 or just over 70 trillion possible combinations in their children just from this gene shuffling that happens through meiosis and fertilization.
+
+Homologous means descendant from a common ancestor, or similar. As discussed earlier, humans have 23 pairs of chromosomes. Now these are called homologous chromosomes because they have a common ancestrial origin. For an example let’s look at Figure 16.
+
+Figure 16 displays chromsome 15 which contains the major gene for eye color OCA2. One chromosome and gene comes from the mother and the other comes from the father.
+
+Now homologous does not mean identicial as the genes can have different variants that are called alleles. So the chromosome from mom can direct for blue eyes, and the chromosome from dad can direct for brown eyes as described in Figure 17.
+
+Both allelles from both parents are the same. The genotype of this individual is called a homozygote. If both allelles from both parents are different, then the genotype is called a heterozygote.
+
+Gregor Mendel was a scientist and friar who lived in the 1800s in what is now the Czech Republic. He demonstrated that the inheritance of certain traits in pea plants. These are now known as Mendel’s Laws of Inheritance.
+
+The first law, called the Law of Segregation, states that allele pairs separate (or segregate) during gamete formation and randomly unite upon fertilization. Now this was an important law to discover because at the time it was thought that traits would combine and blend and then could not be separated.
+
+The second law, called the Law of Independent Assortment, states that allele pairs separate independently during the formation of gametes. This means that traits are transmitted to offspring independently of one another and are not linked.
+
+Mendel examined many different traits in pea plants during his experiments. Each phenotype is controlled by a gene with 2 alleles. The location of a gene on a chromosome is called the locus. If there were multiple locations on multiple genes, then they would be called loci for plural.
+
+Again, as we discussed earlier, when a plant has 2 of the same allele the genotype is called homozygous. When a plant has 2 different alleles the genotype is called heterozygous. The allele that is expressed as a phenotype in heterozygous form is called the dominant allele. And the allele that is masked in the heterozygous form is called the recessive allele. Now you can have situations where in the heterozygous from both alleles are expressed, and this is called codominant.
+
+Now, as we go through Mendel’s experiment you can follow by scrolling down to the figure being discussed.
+
+Figure 20 shows a true-breeding plant, in other words a plant that produces the same phenotypes generation after generation after generation. And these true-breeding plants shown in Figure 20 is true-breeding for 2 traits that we will discuss—stem length and seed pod color.
+
+The genotype of a true-breeding plant is always homozygous. So the plant in this figure is tall with genotype TT with a green seed pod, or seed pods, that have the genotype GG.
+
+This true-breeding plant can only make gametes that have the genotype TG, as shown in Figure 21.
+
+Here, shown in Figure 22, is another true-breeding plant used in Mendel’s experiment, and this true-breeding plant has short stem and yellow seed pods. Figure 23 shows that this true-breeding plant can only make gametes with the tg genotype.
+
+When Mendel crossed these 2 true-breeding plants all offspring in this first generation, called the F1 generation, were heterozygous for these 2 traits as shown in Figure 24. Because the plants were heterozygous, only the dominant allele was expressed and all F1 plants were tall with green seed pods.
+
+These heterozygous pea plants can make gametes with 4 genotypes, that is, TG, Tg, tG, and tg, as shown in Figure 25.
+
+We can use a Punnett square to predict the phenotypes of the F2 offspring if the heterozygous plants were crossed.
+
+From the cross of 2 heterozygous plants Mendel predicted the phenotypes, and he predicted that we would see a 9:3:3:1 ratio.
+
+Now the observation that the short stem and yellow pea pod reappear in the F2 generation demonstrates Mendel’s first law—the Law of Segregation. And the observation that the long stem appears with yellow pea pods and the short stem appears with green pea pods demonstrates Mendel’s second law—the Law of Independent Assortment.
+
+Both of Mendel’s laws are extremely important in using DNA variation for identification in forensic science. However, Mendel’s second law of independent assortment will only hold for genes located on different chromosomes (or distant on the same chromosome). If alleles of genes on the same chromosome travel together during meiosis they are considered to be linked. Luckily none of the traits that Mendel used in his experiment were linked; otherwise he would not have been able to successfully demonstrate his second law.
+
+Population genetics can be defined as a field where the goal of understanding the patterns of genetic variation of a population or a species over time. Essential to population genetics are theories about the changes of genotype and allele frequencies in a population over time. Here we will go over how you can calculate genotype and allele frequencies in a population for later use in population genetics work.
+
+Let’s start with the scenario described here. If 200 people exist in a population then you can simply calculate the genotype frequencies by dividing the number of genotypes by the total number of individuals in the population. Now remember that genotype frequency has to be between 0 and 1.
+
+For example, 98 individuals have the genotype MM. Therefore to calculate the genotype frequency for MM, you would divide 98 by 200, and 200 is the total number of individuals in the population. So the frequency of the MM genotype is 0.49.
+
+To calculate the number of individuals with the heterozygote genotype MN you would do the same thing. 84 individuals have the heterozygote MN genotype. Therefore you would divide 84 by 200, and the frequency of the heterozygote genotype is 0.42.
+
+For individuals who have the NN genotype it would be 18 divided by 200 or 0.09. Note that all these frequencies are between 0 and 1, and once you have all of the frequencies they have to sum up to 1. So you can use this to double check your work.
+
+So .49 plus .42 plus .09 is equal to 1, and therefore I know that I did the calculations correctly.
+
+Now calculating allele frequencies is a little bit different. So you need to know the total number of alleles in a population. Remember that humans are diploid and so this means that each individual human contains 2 alleles at a locus. So, for the MN locus a population of 200 individuals will have 400 alleles.
+
+To calculate the frequency of the M alleles you can simply count up the number of M alleles in the population. For example, there are 98 MM homozygous genotypes in the population, so there are 196 M alleles. That would be 98 times 2 since there are 98 MM individuals.
+
+Now in the heterozygous form there is 1 M and 1 N allele per individual, so there are a total of 84 M alleles in the heterozygotes.
+
+And finally, there are 0 N alleles in the NN homozygotes.
+
+So in total you can add 196 M alleles from the MM homozygotes to the 84 M alleles from the heterozygotes to get 280 M alleles in the population. Then, you can divide 280 by 400 alleles in the total population to get a frequency of 0.7.
+
+Now you can do the same thing for the N allele and just count up the number of N alleles in the population, but we know that the total number in the frequency of alleles needs to add up to 1, and so if 1 allele is .7—the M allele—then we know that the N allele needs to be .3 in order to add up to 1.
+
+Hardy and Weinberg formulated the method for estimating allele and genotype frequencies in a population if no evolution was happening in that population. Now this formulation turns out to be very useful in forensic science when discussing random match probabilities.
+
+So let’s use a different system than the MN system we discussed above. Let’s say that we have a locus with 2 alleles—Aa. Let’s say that the frequency of allele A is represented by the letter p and the frequency of allele a is represented by the letter q. Now remember that allele frequencies must add up to 1, so p plus q must add up to 1.
+
+Now we can turn to the genotype frequencies because under Hardy-Weinberg equilibrium, the genotype frequencies and the allele frequencies are going to be correlated and are going to match, so we can figure out the genotype frequencies from the allele frequency.
+
+Now the genotype frequency of AA will be p times p, or p squared. The genotype frequency of aa—the other homozygous form—will be q times q, or q squared. And the genotype frequency of the heterozygote form Aa will be p times q plus p times q, again, or 2pq. So note that the genotype frequencies must add up to 1, so p squared plus 2pq plus q squared equals 1.
+
+So in this example if p is equal to 0.6 and q is equal to 0.4, then we can calculate the predicted genotype frequencies under Hardy-Weinberg equilibrium. 0.6 squared or 0.36 is what you would get for the AA homozygote frequency, and 0.4 squared or 0.16 would be the aa homozygote frequency, and the heterozygote frequency is 2 times 0.6 times 0.4, or 0.48. Now we can add these up, and so 0.36 plus 0.16 plus 0.48 is equal to one, and so we know that we did our genotype frequencies properly.
+
+Now remember that the expected genotype frequency of homozygotes is always p2 or q2. So you just need to take that allele frequency and square it for a homozygote. And for the heterozygote you just need to multiply 2 times p times q, and you will get the expected frequency for the heterozygote under Hardy-Weinberg.
+
+[SMRY]
+Heredity: the passing of traits to offspring, either from 1 generation or ancestors over many generations.
+
+Phenotype: a measurable trait of an organism. Four types: Morphological (height, skin color), Disease (diabetes, schizophrenia), Physiological (response to pain, response to exercise), and Behavioral (aggressiveness, novelty seeking)
+
+Simple inherited traits are Monogenic (controlled by only 1 gene), Binary (discontinuous) and not greatly influenced by the environment. Example: Red hair (M1CR gene)
+Eye Color is not a simple inherited trait.
+
+Complex inherited traits are Polygenic (variants at multiple gene locations), Continuously distributed, and Strongly influenced by the environment. Example: Obesity (measured by BMI)
+
+99% of DNA is found in the nucleus. The mitochondrial genome is found in high numbers in the cytoplasm of a cell. DNA is a molecule that consists of 2 strands that run in opposite directions that twist to form a double helix. 
+
+A nucleotide consists of a: Base, Sugar, Phosphate group. Nitrogen containing bases come in 2 types. Purines have double rings and pyrimidines have single rings. Hydrogen bonds between bases of the 2 strands form specific base pairing. Adenine (A) always pairs with Thymine (T) or Uracil (U) in RNA. Guanine (G) always pairs with Cytosine (C).
+
+A gene is a specific sequence of nucleotide bases, whose sequences carry the information required for constructing proteins. Exons are parts of the gene that code for specific proteins. Introns are parts of the gene that may have a regulatory function or no function at all.
+
+The human genome shown as a karyotype. The X chromosome is larger and the Y chromosome is smaller.
+
+The sperm and egg gametes are haploid with only 1 chromosome. The fertilized egg (zygote) is diploid with 46 chromosomes in 23 pairs. 
+
+Homologous Chromosomes mean that these chromosomes have a common ancestral origin.
+
+Law of Segregation: Allele pairs of a single gene separate or segregate during gamete formation, and randomly unite at fertilization.
+
+Law of Independent Assortment: Allele pairs of different genes separate independently during the formation of gametes. Therefore, the traits that are determined by these different genes are transmitted to offspring independently of one another.
+
+A dominant trait is a result of 2 homozygous dominant alleles creating a genotype or a heterozygous genotype.
+A recessive trait is a result of only 2 homozygous recessive alleles creating a genotype.
+
+Use a punnet square to determine all possible outcomes and the probability of those outcomes.
+
+Population genetics is the study of the total pattern of genetic variation of a biological population. Allele frequency is the relative proportion of alleles within a population. Genotype frequency is the number of individuals with each genotype divided by the total number of individuals in the population.
+
+To calculate genotype frequencies, calculate the frequency of homozygous and heterozygous genotypes (MM, MN, NN) and check if they add up to 1.0. To calculate allele frequencies, find the total number of alleles (M and N) and then find the frequency of that in the total pool of alleles. Freq (M) + Freq (N) = 1
+
+The Hardy Weinberg equation is used to determine expected genotype frequencies given allele frequencies in a population if no evolution is occurring in that population.
+p2 + 2pq + q2 = 1 where the Genotypes are AA(p^2), Aa(2pq) and aa(q^2).
+
+[TEXT]
+Over 99% of the DNA found in humans is found in the nucleus of a cell. However, an important and significant type of DNA is found in the mitochondria in the cytoplasm of the cell. This is called the mitochondrial genome, or often referred to as mitochondrial DNA, or mtDNA.
+
+DNA found in the nuclear genome, or nuclear DNA, consists of about 3 billion base pairs, whereas the mitochondrial DNA and the mitochondrial genome only consists of around 16,500 base pairs. So the mitochondrial genome is much easier to handle or manipulate because it’s a lot smaller than the nuclear genome.
+
+There exist other major differences between the mitochondrial genome and the nuclear genome. For example, as we learned previously, humans inherit half of their nuclear DNA from their mothers and half from their father in the form of homologous chromosome pairs. Mitochondrial DNA is transmitted from mother to offspring, specifically sons and daughters, but only daughters can pass mitochondrial DNA to the next generation. So it’s transmitted down the maternal line from generation to generation. The father’s mitochondria power sperm to fertilize the female’s egg, but the father’s mitochondria that’s found in the tail of the sperm does not actually enter the egg, or if it does, it’s ejected. And so after fertilization, the only mitochondrial DNA that’s left in the zygote is the mother’s. Therefore, as nuclear DNA can inform about all ancestors of an individual, mitochondrial DNA can only inform about one’s direct and maternal line of ancestors, or your mother’s mother’s mother’s mother’s line.
+
+As you learned in the nuclear genome, DNA will compact into 23 pairs of homologous chromosomes. Twenty-two of these pairs are called the autosome. The final pair that determine sex are called allosomal DNA. As we learned previously as well, if someone has 2 X allosomes, they are female, and if they have an X and a Y allosome, they are male. In fact, only males have Y chromosome, and therefore similar to mitochondrial DNA, in tracing a singular line of ancestors, but for Y chromosome it’s the direct male line, or your father’s father’s father’s father.
+
+Now let’s focus a little bit more closely on the mitochondrial genome. The mitochondrial genome is circular, and it has a few regions of interest for forensic scientists. Specifically, the control region is a regulatory part of the genome that has hypervariable segments called HVS1, HVS2, and HVS3. Often HVS1 and HVS2 will be analyzed, as these segments exhibit a large amount of variation that can be used to identify a match in forensic science.
+
+Mitochondrial DNA analysis is often used in missing persons cases involving the analysis of skeletal remains, and this is because mitochondrial DNA has a much higher chance of successful analysis, largely because the mitochondrial genome is found in many copies of a cell. Whereas the nuclear genome is only found in 2 copies, mitochondrial genomes are found in all of the mitochondria of a cell that can range from 100 to 1,000 copies.
+
+Now, as mentioned previously, mitochondrial DNA is only inherited from the mother, largely because it is found in the cytoplasm of the egg, or the male mitochondria does not get transferred to the newly formed zygote.
+
+There are other important factors that the mother’s cytoplasm contributes to a person’s makeup, but we can learn about these by watching the Biologist’s Mother’s Day Song, shown below.
+
+In this section we will learn about 2 different types of DNA markers commonly used in forensic science: short tandem repeats, often called STRs for short, or microsatellites, and the other type of DNA marker are single nucleotide polymorphisms, or for short, SNPs (S-N-P-s).
+
+Let’s start with short tandem repeats, or STRs for short. As the name implies, STRs are segments of DNA with a core unit that repeats over and over again as it mutates. The allele is based on the number of times the unit repeats. In forensic science STRs are usually based on a 4 nucleotide, or a tetra repeat.
+
+So when a mutation occurs in an STR, it will either increase or decrease 1 unit. So, for example, if you have an STR allele that’s 5 units, it will either mutate up to 6 units or down to 4 units. That’s the usual process. It’s very rare that an allele will mutate more than a single unit.
+
+Now let’s move on to introduce SNPs. A SNP is a change of a single nucleotide, so when a mutation occurs, again, only that 1 nucleotide will change, and it will usually be a transition mutation. Now recall that a transition is a purine that will replace another purine, or a pyrimidine that will replace another pyrimidine. So because most mutations are transition mutations, SNPs are usually thought to be biallelic, or only having 2 possible allele states.
+
+Now on rare occasion you will see a transversion mutation where a purine mutates to a pyrimidine, or vice versa, a pyrimidine mutates to a purine, but these are so rare that they are usually discounted.
+
+Now that we’ve introduced the 2 types of DNA markers that are commonly used in forensic science, we can compare them. So, first STRs can have multiple alleles at a locus, and on average they will have about 10 alleles at a locus, so we have to remember that each diploid individual can only carry 2 alleles in heterozygous form, or 1 allele in homozygous form. But overall that locus can exhibit many different alleles in tetra STRs. Whereas, as we mentioned previously, SNPs are considered biallelic, so they usually only have 2 alleles at a locus. If we think of a number of alleles as information, STRs have about 5 times the amount of information as a SNP, and this information is very useful in forensic science because it can be used to identify a match between a crime scene sample and a suspect.
+
+Therefore, the main tool of identifying DNA matches in forensic science is based on STRs, whereas SNPs are used in other cases, but not usually used to identify matches if you are able to analyze STRs.
+
+Here we’ll discuss a method that has revolutionized molecular biology and has transformed forensic science. This method is called the polymerase chain reaction, or PCR for short. PCR is what allows us to analyze DNA samples taken from crime scenes to identify our perpetrator. Specifically, we can use PCR in forensic science to focus in on specific parts of the human genome, like genomic regions that have STR DNA markers. And we can amplify minute amounts of DNA left at a crime scene so it can be analyzed and genotyped.
+
+To perform PCR in a lab you need to first extract DNA from the biological tissue taken from the crime scene. This could be hair or blood or some other form of biological tissue that was found at the crime scene. Once the DNA is extracted you can put it in a tube, along with the following reagents. First, along with the attracted DNA you’re going to put in PCR primers. Now PCR primers are artificial segments of DNA constructed to allow a researchers or a forensic scientist to amplify a specific part of the genome. PCR primers compliment the DNA flanking the target region of interest, and PCR primers are usually around 20 nucleotides in length. This gives it the specificity for humans, as well as the genomic region that needs to be amplified and analyzed.
+
+Second, along with the extracted DNA and PCR primers, we’re going to put in free nucleotides called DNTPs. These are just free-floating Ac, Gs, Cs, and Ts that are going—will be incorporated into the strand that will be created during PCR.
+
+Third, a DNA polymerase called Taq polymerase is going to be added. This is a special type of DNA polymerase that still works under high temperatures.
+
+Lastly, we will add a buffer to make the reaction work optimally.
+
+After putting all reagents into the tube, you will then place the tube into an instrument called a thermocycler, and this instrument will proceed through a cycle that consists of 3 steps. And after the 3 steps you will have completed 1cycle, and then it will perform the cycle again 30 to 40 more times.
+
+So now let’s go through the steps. The first step is called denaturing. This is where the hydrogen bonds binding the 2 strands of DNA together are broken by heating the reaction up to 95 degrees. The DNA is now in the form of 2 single strands. Next is the annealing steps, where the temperature is lowered to around 55 degrees, and this allows the primers to anneal to the DNA strands. The third step is called the extension step, and this is where the temperature is raised to 72 degrees, and the Taq polymerase binds to the end of the primers and fills in the compliment strand 5 prime to 3 prime. This step is now—or this cycle is now repeated until you have billions of copies of DNA from the region of interest.
+
+After performing PCR and creating billions of PCR product, these are called amplicons, a forensic scientist will perform a post-PCR analysis to assess the quality of the PCR product and to genotype the PCR product to help identify matches. So electrophoresis is the key technique used in post-PCR analysis.
+
+Let’s first discuss the traditional type of electrophoresis called gel electrophoresis. This is where a scientist will load into a matrix, and this matrix is usually made of some kind of gel, and the DNA will be able to move through this gel, and these days we usually use agarose to make the gel. An electric current will run through the gel, so one side of the gel will have a positive charge and the other side will have a negative charge. Because DNA is negatively charged due to that phosphate group on the backbone, DNA will move towards the positive end. Therefore the DNA will be loaded into wells on the negative end of the gel. Then, over time, as the current runs through the gel, the DNA sample will move towards the positive end of the gel based on the size of the DNA fragment, where smaller fragments, or shorter fragments, will move faster than longer fragments.
+
+In addition to running the samples through a gel, scientists will also run what’s called a standard, or a set of DNA fragments of known length. So they compare the amplicon and how far that’s run to the standard to get an estimate of the size of the PCR product. Because you designed the PCR primers, you already have an idea of what the PCR product should be.
+
+Once you have run the gel, you will see bands on DNA at various locations of the gel. If you have shorter fragments, we will expect the bands to run farther down on the gel, whereas if you have longer fragments, we will expect these bands to be higher up—more towards the negative end of the gel.
+
+Now that’s gel electrophoresis, and what’s been used over the past few decades is a similar system called capillary electrophoresis. Capillary electrophoresis runs on the same general concept of charge of DNA through a gel matrix, but there are a few important differences between capillary electrophoresis and gel electrophoresis, so let’s go over those differences.
+
+First, capillary electrophoresis, as the name states, is where the gel is placed in a capillary, and each sample will be run through a single capillary in an instrument called a genetic analyzer. Another important difference is that a fluorescent tag will be added to each amplified DNA fragment during PCR. This tag will fluoresce in the presence of a laser. Hence, in the genetic analyzer, all capillaries will have a laser near the positively-charged end of the capillary. The DNA fragment as it is running through the gel in the capillary will fluoresce when it passes by a laser, and so you’ll be able to tell the size of the DNA fragment based on the fluorescence.
+
+Similar to gel electrophoresis, a standard will be added to each capillary along with the DNA sample so you can tell the size, and the standard will be tagged with a different type of fluorescent tag that gives off a different color. That way you can’t confuse the standard fluorescence with the actual DNA sample.
+
+So once the analysis is completed, the genetic analyzer will create a plot. The DNA fragments will appear as peaks instead of bands on this plot. The location of the peak on the X-axis determines the size of the fragment, and the height of the peak measured on the Y-axis provides information on the strength of the signal.
+
+Now, let’s take an example: the amelogenin locus is found on the sex chromosomes and can be used to determine the sex of an individual. The Y chromosome version of amelogenin is 6 base pairs longer than the X chromosome version. Therefore a male will have 2 medium-sized peaks that are 6 base pairs apart because a male has an X and a Y chromosome, whereas a female will have 1 really high peak at 1 location because it’s homozygous XX. Now when performing PCR and running multiple fragments from multiple loci on the genetic analyzer, this is often referred to as a multiplex. Scientists can give each locus a separate colored fluorescent tag to help with the analysis so it’s difficult to confuse DNA fragments at different loci. So that’s gel and capillary electrophoresis used in post-PCR.
+
+In this section we will discuss how DNA is analyzed to create a random match probability between a biological sample found at a crime scene and a blood sample taken from a suspect. Forensic scientists genotype DNA at multiple loci to create what is called a DNA profile. Now a match probability is the chance that a DNA profile chosen at random from the population will match that from the crime scene. The lower the probability, the more likely that the suspect committed the crime.
+
+So when creating a DNA profile, a forensic scientist will rely on STR markers that are not linked together in accord with Mendel’s second law of inheritance—the law of independent assortment. Because these STRs are not linked and are independent of one another, one can use the product rule when calculating a random match probability. A random match probability is an estimate of the random chance that 2 people could have identical results or profiles consisting of a match. The lower that this number is, the more likely that the suspect committed the crime.
+
+To calculate a random match probability, a forensic scientist will use allele and genotype frequencies based on the evidence sample and databases that have been compiled by various forensics labs over the years that have allele frequencies for various populations of ethnic origin. Once they have the allele frequencies, they can use the Hardy-Weinberg formula to calculate the expected genotype frequencies.
+
+Now remember that the formula used will differ depending on whether it is used to calculate a homozygote or a heterozygote genotype. For example, when genotyping in the evidence sample found at the crime scene for two loci—here we’re going to call these loci CSF1P0 and TPOX; these are actual loci used by forensic scientists—we find that the crime scene sample is heterozygous for the CSF1P0 locus with allele 10 and 11, and homozygous for the TPOX locus with allele 8.
+
+The first thing you would do is you would calculate the allele frequencies based on the total size of the database. In this example, the frequency of allele 10 and 11 for the locus CSF1P0 are 0.25 and 0.31, respectively, for CSF1P0. Then for TPOX, the allele frequency for allele 8 is 0.53.
+
+Now, for the heterozygous genotype you will use the Hardy-Weinberg formula for heterozygotes, or 2PQ, which would be 2 * 0.25 * 0.31, which is equal to 0.16.
+
+Now, for the homozygote genotype at the TPOX locus, you would use the formula p2, which is 0.28.
+
+Now to get the random match probability for these 2 loci, you can use the product rule and multiply 0.16 and 0.28 to get 0.045, or a 4.5 chance that the evidence sample and the suspect sample could match by chance.
+
+Usually a random match probability is around 10-8 or 10-9, based on the analysis of 13 independent STR loci. This genetic system and associated database are called the combined DNA index system, or CODIS for short, and it’s largely developed and used by the FBI.
+
+With the CODIS STR loci and the various CODIS databases, forensic science has developed a powerful system to identify the possibility of a match between an evidence sample and a sample taken from a suspect.
+
+Here we focus on how mitochondrial DNA is used in forensic science. All mutations on the mitochondrial genome are linked together, and therefore the product rule cannot be used to calculate the random match probability. This makes mitochondrial DNA, or mtDNA, much less powerful than using the CODIS STR system. However, where mitochondrial DNA is useful is in the analysis of degraded DNA samples because mitochondrial DNA is found in hundreds to thousands of copies in a cell and is often analyzable, when nuclear DNA and the CODIS STRs are not because the nuclear DNA is too degraded.
+
+When analyzing mitochondrial DNA, forensic scientists usually sequence a portion of the mitochondrial genome called the hypervariable regions. The hypervariable regions mutate much faster than most other parts of the genome, and therefore exhibit a high amount of variation that can be used and is useful for identifying a match. Also because siblings will have their mother’s mitochondrial DNA, and mitochondrial DNA can be traced across related maternal lines, this part of the genome can be very useful in tracing maternal lines across generations.
+
+This type of analysis of looking at maternal lines across families was highlighted in a specific case about the analysis of the royal family of Russia, the Romanovs. Following the Bolshevik Revolution and the murder of the Romanov family, the family was buried in an unmarked grave. Ultimately the grave was found, and the individuals in the grave were matched to a description of the Romanov family. The mitochondrial DNA of the czarina and children were extracted from the skeletal remains and matched to living maternal descendants along their maternal line. However, it was suggested that 1 of the children was missing—Anastasia—and that she may still be living today. So before the advent of mitochondrial DNA testing, Anna Manahan claimed to be Anastasia her entire life, but eventually she died of cancer. Eventually a biopsy sample from Anna Manahan was used to extract DNA to compare it to the female line of the Romanovs to see if she was, in fact, likely Anastasia, and was found that Anna Manahan had a different mitochondrial DNA than the Romanovs on their maternal line, and therefore she was likely not Anastasia.
+
+The czar Nicholas II, his maternal line was different from his wife and children, and so they needed to use genealogical methods to identify maternal descendants of the czar Nicholas II. And so after they identified these maternal descendants, they sequenced their mitochondrial DNA, and what they found was a unique mutation caused by a phenomenon called heteroplasmy. Now, heteroplasmy is the existence of multiple different mitochondrial DNAs in an individual or a cell, and so what you end up with are multiple mitochondrial genomes within a DNA sequence. This signature heteroplasmy creates a unique marker to help identify maternal relatives. In an electropherogram of DNA sequence, heteroplasmy would be seen as double peaks in a DNA sequence.
+
+Recall that Y chromosomes are only found in males. STRs on the Y chromosome can be genotyped to identify a match. However, as with mitochondrial DNA, the loci on the Y chromosome are linked and therefore not independent, and so the product rule cannot be used.
+
+In forensic science, Y-chromosome STRs are most often used in paternity cases to identify father-son matches and also in heterosexual assault cases where a female victim will not exhibit a genotype because she does not have a Y chromosome.
+
+Y-chromosome STRs were used in a famous paternity case involving Thomas Jefferson and Miss Sally Hemings, a slave owned by President Jefferson. There was ample evidence that President Jefferson had relations with Miss Hemings through written records, and it was suspected that Miss Hemings’ child, Eston Hemings, was actually the son of President Jefferson. Now, the Monticello Association claimed that Samuel Carr, a cousin of President Jefferson, was, in fact, the father of Sally Hemings’ children, including Eston Hemings.
+
+Now in 1998 there was a study that was published in Nature magazine where Y-chromosome results were compared between descendants of Samuel Carr, Eston Hemings, and Field Jefferson, and Field Jefferson was a paternal uncle of Thomas Jefferson. They had to use Field Jefferson’s Y chromosome because Thomas Jefferson did not have a son or any male descendants living today. The results suggest that Eston Hemings has the same Y chromosome genotypes as Thomas Jefferson’s Y-chromosome.
+
+The final section of this week is about forensic DNA phenotyping. As the name suggests, forensic DNA phenotyping is using DNA to predict the physical attributes of an individual, usually a person of interest or a suspect. We call these physical attributes externally visible characteristics, or EVCs for short.
+
+So what kinds of physical attributes are considered EVCs? Here is a list of all the EVCs that are currently in use or are in research. We will talk about pigmentation traits, including hair color, skin color and eye color later. Other traits listed here are still in varying stage of research, and are generally not used, or should not be used in forensic science right now.
+
+Recall what we’ve learned last week about complex traits. Complex traits are usually continuous, and usually more than one gene is involved. Depending on the trait, there can be as many as thousands of genes involved, and each gene will only have a very small effect on the final phenotype, right? This makes it difficult to identify these genes in research and subsequently use them in forensic cases. Moreover, as we’ve learned last week, variation of complex traits is the result of both genetic and environmental contribution. As demonstrated in the figure here. If there is a big environmental component to this trait, it will be more difficult to identify the genetic effect. Another thing that this figure shows you is that the distribution of complex, continuous trait will approach a normal distribution, that is, most individuals will be around average, and fewer individuals will be at the extremes.
+
+To study the genetics of complex trait, first we’ll need to sample a lot of individuals in order to fully capture this variation in phenotype, then we’ll have to look at their genetic variation-that is, the variation in the sequence of certain genome regions-and use statistics to map the patterns of phenotypic variation to parts of the genome. For example, if we have 100 individuals, and 99 of them are the same height, and 1 individual is slightly taller. We can then see where in the genome of this one taller individual is different from the other 99 individuals, and these are potentially where the genes that lead to this height difference located.
+
+The way we study genetic variation in genome sequence is to utilize SNPs. There are approximately 1 SNP every 1000 nucleotides on average, therefore there are about 4 to 5 millions SNPs in one person’s genome. If we look at these SNPs at a regular interval, we can then study variation of the entire genome sequence.
+
+So this is why despite technological advances, forensic DNA phenotyping is still fairly new and is still in development.
+
+Pigmentation traits are the most well-studied among all the EVCs, and there are two reasons for this. First is that they are considered to be less affected by the environment, that is, the environmental contribution to trait variation is small. This makes it easier to study them and to map them onto regions of the genome. The second reason that pigmentation traits are very well-studied is that, while there can be thousands of genes involved, only a few of them contribute to large amount of phenotypic variation. So basically, the variation of pigmentation traits can usually be mapped to variation in a few genes. This makes developing a testing system easier.
+
+For eye color prediction, right now the commercially available testing system for eye color include 6 SNPs from 6 genes - so this is one kit that everyone can buy, it has really good peer-reviewed results, and is not owned by a private company. There are other studies that use more SNPs, ranging from 6 to about 20 - some of them from the same genes - but they either haven’t been made commercially available yet, or they didn’t improve the results by much. The 6-SNP system works best for blue and brown eye color prediction, and it does not perform very well in certain Asian populations or populations with mixed ancestry. It also has trouble generating conclusive results for intermediate phenotypes, such as green or grey eyes.
+
+Hair color prediction usually uses more SNPs. The first commercial kit available uses 24 SNPs, it is a combined eye color and hair color prediction kit. Again, it works better in some categories of hair color than others, in this case it has high accuracy in predicting red and black hair, but can be fairly inaccurate with blonde and brown hair.
+
+Some people will also change their hair color during their lives. For example, some blonde individuals’ hair might become more brown-ish as they grow older. Most of these studies on the genetics of hair color did not take into account of this color change, and we simply do not have a very good understanding of why or how it occurs in some individuals but not the others.
+
+Skin color is the least well-understood among the three pigmentation traits. There are some technical challenges with skin color prediction. While eye color or hair color variation is largely confined in people with European ancestry, skin color variation is more globally distributed. Therefore one set of SNPs that performs well in one population might not perform as well in another. Again, it is difficult to conduct a cross-population study to generate the results that can be used to predict skin color.
+
+Right now the commercial kit available uses 36 SNPs to predict skin color into categories of very pale, pale, intermediate, dark, and dark–black. It does not perform as well as the other two pigmentation traits.
+
+The figure here is the commercial kit developed by a group of researchers in the Netherlands and at IUPUI - that is Indiana University-Purdue University at Indianapolis. This one is for eye color and hair color prediction. You can even upload your own genotyping results for these SNPs onto their website, and it will tell you its prediction based on your results.
+
+So now let's compare forensic DNA analysis, which mostly uses STR markers, with forensic DNA phenotyping, which mostly utilizes SNPs. Forensic DNA analysis is trying to identify a person using STR profile matching, right? So we are trying to compare this profile we generated using DNA to a specific person, so it is also more individualizing, we are trying to narrow down our search to a specific person. Oftentimes if we can't generate a profile match through database search, it usually becomes a cold case if there's no other evidence. Forensic DNA phenotyping, on the other hand, is trying to infer the externally visible characteristics from DNA. So it is more predictive, right? We are trying to predict what this person would look like based on their DNA. It is also more investigative than individualizing, right now a lot of cases are using DNA phenotyping to generate more investigative leads.
+
+Lastly, let's compare the 4 forensic DNA markers we talked about this week. Here is a table listing the advantages, disadvantages, as well as the current usage in forensic science of the 4 markers. We know from the lecture today that a core set of STR markers - that's about 13 to 15 of them - is considered to be the gold standard in forensic DNA analysis now. They are also helpful in detecting and interpreting mixture of DNA samples because of the way the results are presented. This is helpful in forensic science because samples from a crime scene are usually not from a single source, oftentimes a lot of individuals' DNA will be mixed together. Two major disadvantages of STR analysis are that they are less abundant in the genome, there's about 1 STR in 15,000 base pairs, so it is difficult to expand on the current system. The current system does not perform well when the sample is highly degraded either.
+
+Y-STRs is inherited only from the father, and they only run through the males in the family. This is useful in cases where there are a lot of male DNA mixed together, and they can help narrow down suspects really quickly. However, because of their male-only inheritance pattern, the information we get from them is also limited. In cases where we want to trace the maternal lineage, we usually use mitochondria DNA, as it was only inherited from the mother but is passed down to all offspring, both male and female. Mitochondrial DNA also works really well with highly degraded samples, because we have more copies of them in a single cell. So aside from tracing the maternal lineage, in some cases mitochondrial DNA is the only genetic material that can be amplified from the samples.
+
+SNPs are more abundant than STRs and they work well with degraded samples. However, usually we need to amplify more loci for almost any purposes. For example, studies showed that to achieve the same level of discrimination as 15 STRs, we'll need approximately 40-60 SNPs. If we want to perform DNA phenotyping of multiple traits, we'll need 20 plus SNPs. For more complex traits like height, we'll need hundreds or thousands of SNPs. Although the abundance of SNPs makes it easier to expand their usage, most of the applications for SNPs in forensic science are still in research right now, and they are primarily used in ancestry and some phenotype prediction right now.
+
+[SMRY]
+Allosomal DNA (sex chromosomes) – DNA contained on the X and Y chromosomes. Females are XX, Males are XY.
+Autosomal DNA – all DNA contained within the nucleus in chromosomes, excluding DNA in sex chromosomes
+Nuclear DNA/Genome – defined as all autosomal + allosomal DNA
+Mitochondrial DNA (mtDNA) – DNA contained within the mitochondrial of our cells. Circular, much smaller than nuclear DNA and has fewer base pairs than nuclear DNA. Only maternal mtDNA is inherited by offspring. 
+
+DNA Markers: Locations within the genome that vary among individuals, populations or species. (i.e., sources of variation in the DNA). 2 main types used in forensics: Short Tandem Repeat (STR) and Single Nucleotide Polymorphism (SNP). 
+
+Short Tandem Repeats (aka microsatellites): Short repetitions of a particular set of nucleotides found at a particular location (i.e., locus) in the DNA. Repetitions of the sequence are back to back (hence “tandem”), with no other nucleotides in between them.
+
+STR variation: You should count the amount of nucleotides in the patterns and amount of repetitions. This repetition is how we describe which allele a person has. If they have two of the same allele, that is Homozygous, otherwise that person is heterozygous.
+
+STR Utility in Forensic Genetics: Many STRs in genome and many alleles for a given STR, LOTS of variation among individuals = easy to use for identification purposes, Compare STR alleles in DNA evidence sample to suspect sample.
+
+Single Nucleotide Polymorphism (SNP): A change in a single nucleotide at a particular location along the genomic sequence that vary among individuals, populations, or species. Changes from only nucleotide to a different nucleotide occur in particular ways:
+Transversion – purines ↔ pyrimidines
+Transition – purine → purine OR pyrimidine → pyrimidine
+
+Polymerase Chain Reaction (PCR): A chemical reaction that allows for the amplification (or replication) of the particular sequence of interest millions of times in order to increase its quantity. Forensic Scientists use this to zoom in on a small section of DNA with the SNP/STR we want to examine.
+
+Requires the following reagents (substances or compounds involved in the reaction):
+Taq polymerase – a catalyst, which speeds up the reaction
+dNTPs – free nucleotides which will be assembled to replicate the sequence
+Buffer – keeps the pH at the ideal level for the reaction to occur at the maximum rate
+
+Additional components for PCR:
+PCR primers – a sequence of compliment bases that are specific to the DNA nucleotide sequence in the region of interest. Usually takes a length of about 20-25 nucleotides to be regionally specific
+Thermal cycler – a machine that is programmed to go through cycles of heating and cooling that allow for the amplification of the DNA to occur
+
+1 cycle of PCR consists of 3 events:
+
+1. Denaturing of the DNA – heating up the solution, including the DNA, reagents, and PCR primers, to 95°C, which loosens the bonds between the 2 strands of DNA so that they separate
+2. Annealing of the Primers – cooling down the solution to around 55°C, which allows the primers to bind (anneal) to the single DNA strands
+3. Extension – heating up the solution to 72°C to promote the Taq polymerase to create the complimentary strand of DNA using the free-floating dNTPs
+
+PCR amplification over many cycles: Number of amplicons (amplified sequences) dramatically increases with the number of  PCR cycles completed. 
+
+We can use Gel Electrophoresis or a Genetic Analyzer to separate the DNA fragments by size and determine what STRs or SNPs are present. 
+Gel electrophoresis separates DNA fragments by size as they travel from the positive to negative end of the gel. Larger fragments travel slower. 
+A genetic analyzer runs DNA fragments through a capillary tube where a fluorescent light is used to find the DNA marker alleles present, DNA fragment size and amplicon quantity.
+
+For homozygous alleles, peak height is larger (more amplicons)
+Amelogenin gene located on X and Y chromosomes, 2 peaks = male, 1 peak = female.
+
+This combination of alleles (SNP and/or STR allelic combinations) that is specific to a person is known as the DNA profile. We care about match probability or that the lower the probability, the stronger the evidence that the suspect committed the crime.
+
+Random Match Probability (RMP): RMP is a numeric estimate of the random chance that 2 people could have identical results (a “match”) 
+Product Rule: P(A and B) = P(A) * P(B)= random match probability (RMP)
+Multiply the probability of having each allele to get the RMP.
+
+CODIS STRs: Combined DNA Index System
+Initiated in mid to late 1990s—database and standardized DNA technology tool for solving crimes. Database includes samples from many reference populations that represent the diversity within the USA. Samples 13 unlinked (i.e., independent!) STR loci with high heterozygosity (i.e., lots of variation among individuals!). Frequencies for all alleles for these 13 STR have been established. 
+
+Using DNA in the Forensic Context: mtDNA
+CONS: Limited amount of variation—many people share identical mtDNA, Can’t use product rule to calculate RMP because SNP variation in mtDNA is not independent (violates assumption of independence)
+
+PROS: Potentially thousands more copies of mtDNA than nuclear DNA in a forensic sample
+(mtDNA is ideal when poor quality or small amount of sample recovered from a crime scene). Because mtDNA is maternally inherited, useful for sibling and maternity test exclusions. 
+
+Analyzing mtDNA
+Need the sequence of a portion of mtDNA, Hypervariable (HV) region of mtDNA most commonly observed. 
+DNA sequencing: 1 approach is called Sanger sequencing
+Generates a visual for the order of base pairs for the DNA region of interest. Each peak represents a nucleotide in the DNA sequence. Each color corresponds to a different nucleotide
+red= thymine
+blue = cytosine
+green = adenine
+black = guanine
+
+mtdna was used to identify the remains of the Romanov family.
+ 
+Heteroplasmy: the existence of multiple different mtDNAs in an individual or cell of an individual. Would occur through mutation in the individual that was not present in the maternal DNA passed to that individual. Common in hair shaft samples. Can distort a DNA match. 
+
+Using DNA in the Forensic Context: Y Chromosome STRs
+STRs found only on the Y chromosome, Male-specific only, Paternally inherited only, Used in paternity testing, genealogy DNA testing, and forensics matching. Great utility in cases where crime scene samples are mixtures of victim and assailant’s DNA. 
+
+Forensic DNA Phenotyping: Using DNA analysis to predict externally visible characteristics (EVCs) of an individual
+What physical attributes are considered EVCs? Pigmentation (eye color, hair color, skin color, eyebrow color), Stature (height), Freckling, Baldness, Facial features (dimensions/shape), Age.
+
+Complex traits: More than one gene is involved.
+
+SNPs: How to study variation in genome sequence? 
+Examples:
+Pigmentation: Most well-studied, Less affected by the environment. While there can be many genes involved, usually only a handful contribute to large amount of variation.
+Eye color
+- First commercially available kit uses 6 SNPs (from 6 genes).
+- Best for blue and brown eye prediction.
+- Not as good with intermediate phenotypes (green, grey...etc).
+Hair color
+- First commercially available kit uses 24 SNPs (including the 6 for eye color prediction).
+- Best for red and black hair prediction.
+- Some inaccuracies with blonde and brown hair.
+Skin color
+- Least well-understood among the three pigmentation traits.
+- 36 SNPs from 16 genes.
+- Categorical prediction outcomes.
+
+DNA Analysis: Mostly utilizes STR markers, Identify a person using profile matching, Comparative, Individualizing.
+
+Forensic DNA phenotyping: Utilizes SNPs, Infer the externally visible characteristics from DNA, Predictive, Investigative.
+
+[TEXT]
+Now that you’ve thought about crime scene photography some, let’s discuss the appropriate approaches to systematically documenting evidence at the crime scene using photography. The point of photographing evidence is to pictorially re-create the crime scene, which can help to refresh memories or recall details once the scene has been disturbed or closed down and can be presented to the jury to help orient them. In addition, photographic images are one of the key ways to illustrate the relationship of objects or evidence to one another in the scene, which can be compared to information from interviewed assailants, victims, or eye witnesses.
+
+So, for example, if, you know, you have an image of a room and the assailant says, you know, “I banged on the bathroom door, but I didn’t actually go to the far corner of the room,” well if you go over to the far corner of the room and evidence was collected over there of a shoeprint that matches to his, this is something that where we can actually compare what information is being collected by the individuals and what the crime scene actually tells us.
+
+So ultimately, the photography is proof that the crime scene existed, and existed in a specific way, with the arrangement of objects still in situ. This is greatly helpful in instances where evidence is tampered with or lost at a later date. Having this visual documentation of the evidence allows investigators to refer to the original unmanipulated evidence.
+
+There are general basic protocols to follow when photographing a crime scene that help to insure that you capture the scene in its entirety as well as in the details that are needed to review. The basic procedure includes 4 types of photography that the CSI or the death investigators and that—they need to complete.
+
+The first is exterior photos which show the location, the address, or the general area, if it’s outdoor, of the crime scene.
+
+Overall photographs are the next step. And these are images of the evidence related to the crime scene, but you zoom out to encompass all of the scene. So this is where you can actually see the entirety of the evidence. If you can’t get it all in one image, you can take multiple images and overlay them at a later date. This type of photography is essentially to show the relationship of the evidence to each other as well as the orientation in space.
+
+The next is you’re going to zoom in slightly to go to medium distance photographs. These are slightly zoomed in than the overall photographs, and this allows for some detail to be shown, and it also shows the viewer what to focus on.
+
+Lastly, some close-up photographs should be taken and is appropriate for documenting evidence of damage to bodies or small things like bullet casings or if you have blood spatter you might have just a little bit that you need to photograph and hone in on. In this step, the subject of interest should fill the frame of the camera and a scale should always be used.
+
+Crime scene sketches are an additional highly systematic approach to documenting the crime scene. Although the term “sketch” implies a loose rendition, this is not the case for crime scene sketches. Each object’s location in space and distance to the other objects is accurately depicted through the collection of a series of measurements. These measurements are taken in 3 dimensions and multiple measurements are taken for all objects of interest. These measurements are then imported into software that can integrate them to depict the crime scene in line graphics as shown here.
+
+In addition to accurate measurements, one of the most important aspects of any sketch is a legend, a scale, and a north arrow. This helps orient the person who is viewing the sketch to help them understand what they’re looking at and the relative scale. The legend describes what is being depicted.
+
+These sketches serve as an additional way of viewing the scene from photography, and it allows you to kind of get rid of all the superfluous details of a scene that aren’t really evidence. So you can image if you have a body lying in a field, you’ve got trees and flowers and stumps and lots of things that aren’t really necessary information if you’re trying to focus on the evidence of interest, which would be something like the body. And so for a sketch, you can just hone in on the items of interest and basically not document or measure in anything that’s not specific to the crime scene itself.
+
+So, together, photography and sketches can work to give you different views or different perspectives of the information that’s necessary from a scene.
+
+What is physical evidence? Essentially, physical evidence is anything that can be brought into the courtroom and displayed as evidence and information for the judge or the jury and the trial.
+
+There are two main kinds of evidence, which differ in their sustainability. Fragile or transient evidence can be easily altered, lost, or degraded over time or under varied environments. Can you think of any ideas? Typically these are either directly preserved, as with preserving chemical substances being added to body fluids like DNA for saliva, or indirectly preserved, as with making a cast of a footprint or tire impression.
+
+In contrast, solid or tangible evidence is stable of time and in a variety of environments and does not require additional storing protocols beyond the basics discussed later this week in the lecture. Examples of solid or tangible evidence include things like firearms, cars, computers, bullet casings, etc.
+
+Here you can see some examples of common evidence recovered at scenes. Can you classify each of these as fragile or solid?
+
+When locating and photographing evidence, it has not yet been touched. The time when evidence has a high chance of being altered is during the collection and packaging stage of the crime scene investigation. Gloves and sanitized or disposable tools are the best way to prevent contamination of the crime scene with non-evidence from investigators. Using protective gear like gloves also protects the investigators from interacting with potentially hazardous materials, such as chemicals or body fluids, found on scene.
+
+You can see in the provided images below that complete kits with everything you need to actually collect evidence are often purchased by crime scene units to go ahead and just have it all in a mobile device that they can bring in. And you may not need everything in the kit for a particular scene, but basically everything in the kit can accommodate any scene.
+
+The type of container that you would use to collect evidence of course depends on the nature of the evidence. Evidence such as chemicals, drugs, bodily fluids—these can be stored in glass or plastic vessels, while things like weapons, clothing, documents are examples of items stored in paper bags in order to prevent mold.
+
+What needs to be noted is that if something is stored in plastic and can actually cause mold, a chemical agent to preserve it needs to be added to it if it would actually undergo the process of turning to mold. This would damage the evidence from its current state and basically make it unusable as physical evidence in court.
+
+Regardless of what container is selected for use, each container must be labeled with the appropriate information. This can include an evidence number, the description of the evidence, the date, the time, the location of the evidence when it was collected, and the initials of the person who collected it. Oftentimes, the bags or vessels will be sealed with crime scene tape that tapes over the opening to the bag. Once that’s taped, a signature is placed half on the tape and half off the tape so that if any tampering of evidence occurs without authorization, it’ll be painfully obvious.
+
+Once evidence has been collected, it has been permanently altered from its original state and context within the crime scene. When evidence is analyzed, oftentimes this will introduce additional alterations to the state of the evidence. For example, a hair sample may be broken down to extract cellular DNA, or, fingerprint powder could be distributed on a handgun to better expose any prints on it. These alterations to the evidence must be explicitly described and documented in the case documentation.
+
+This is extremely important because oftentimes it can be months or years or even decades before a case makes it to court if it goes to court. If a clear record of how the evidence had been altered from its original state is not tracked, that knowledge may be lost, and the evidence falls into question. People retire, they’re fired, or promoted, which means the case isn’t always with the original people who worked it, thus it is imperative to maintain highly detailed records that anyone, who maybe didn’t know anything about the case to begin with, can walk in, review, and have a strong understanding of what has gone on and what has happened to the evidence.
+
+One essential type of documentation is called the chain of custody. This is essentially documentation of all persons who came into contact with a piece of evidence. The time, date, and purpose for the possession of the evidence is documented. Both the person receiving and giving the evidence sign paperwork acknowledging the transfer of the possession. Where evidence is, who handled it, and what was done to it must be accounted for at all times, and this will definitely come up in trial if that piece of evidence is brought forth as legitimate evidence. In order to establish its authenticity, the chain of custody is reviewed. It may not be glamorous or that interesting, but paperwork is a huge part of forensic science.
+There are 2 main goals when handling evidence for analysis: identification and comparisons. When a substance or an item is unknown—for example, a white powdery substance found at the scene, this can be tested to determine what the substance actually is—is it cocaine or a pile of chalk?
+
+The second kind of analysis involves comparing a piece of evidence from the scene to an alternative sample not directly associated with the scene. The main purpose for comparative analyses, as opposed to identification analyses, are to establish connections between 2 items, in other words a common origin. For example, a fingerprint found at the scene is compared to the fingerprints included in the Automated Fingerprint Identification System, or a fiber embedded in a body is compared to the carpet fibers from the suspect’s home.
+
+When performing a comparative analysis, you intuitively need both the case’s evidence sample found at the scene or on the victim and a suspect sample, hence the word compare. Whatever test or analysis that is performed on the evidence sample is the exact same test that is performed on the suspect sample. This avoids any additional factors that differ between tests that could create differences between the 2 samples that are not due to actual legitimate differences in the samples themselves, but are in fact a result of the way the 2 tests were performed.
+
+Although the tests and analyses performed on evidence are often objective, repeatable, and standardized, the conclusions form the tests are not always definitive. In fact, drawing an actual conclusion from the test results can be the trickiest part of a comparative analysis. Let’s see why.
+
+When thinking about the outcome of any comparative test, the first question that must be asked is: How likely is it that the evidence sample and the suspect sample are from the same source, to the exclusion of all other sources?
+
+Let’s use the example from above regarding the carpet fibers embedded in the cuts on the body of the dead female found in the field. The main suspect is her boyfriend. He has a history of domestic violence charges against her, with the most recent one being reported with a month of her murder. The carpet fibers in the body are analyzed and their actual make-up is comprised of a specific proportion of nylon and polypropylene, and the chemicals used to dye the carpet are identified and their proportions are also known. When compared to carpet fibers in the boyfriend’s house, they are an exact match.
+
+Does the information from the test results confirm that the carpet fibers in her cuts are in fact from her boyfriend’s house? Why or why not? Fill in your answer and reason in the box provided here.
+
+Both carpet fibers have been subject to tests to determine what materials and what dyes make them up. If both of these tests tell us that the carpet fibers found on the body are the same as the ones found in the boyfriends home... it's still not safe for us to conclude this. Chances are, many other households have the same carpet so we need something more unique to help us identify that she was at the boyfriend's home.
+
+If you answered no, then you are on the right track! Just because these are the same fibers doesn’t mean that they are the only possible origin for them is the boyfriend’s house. There are likely thousands of homes that have the same carpet, so what is necessary to know is how common that carpet is.
+
+Another thing to think about is that alone the carpet fibers may not give the prosecution a strong case because of its commonality, but what about when you combine the matching carpet fibers with other comparative analyses that also match with the boyfriend? It is this accumulation of multiple independent comparative matches that can increase the likelihood that all of these matches are linked with the boyfriend and no one else.
+
+Other kinds of evidence can by themselves produce great enough probabilities of a match to one origin or a single origin, to the exclusion of all other possible origins. This is something like DNA. While the same carpet fibers are manufactured in identical manners and put in homes all over the world, something like your DNA is unique to only you, and can thus generate a match between suspect samples and evidence samples with a high degree of certainty.
+
+Now that I have you thinking about different kinds of evidence and how it can be used in an investigation, let’s formalize these concepts. Typically evidence contains 2 levels of information that can be extracted from analyzing its properties. Class characteristics are one of those.
+
+Class characteristics are characteristics that provide an association of that evidence with a broad level source, such as a class, and this is what that’s called. All evidence, in fact, have class characteristics. All objects within a given class are potential sources for the evidence.
+
+For example, that pesky carpet fiber in the crime we talked about above? That fiber can definitively be linked to a particular brand and model of carpet, but all carpet produced under that model is identical, and thus represents a class. We cannot determine whether the carpet fiber found in the woman’s body is associated with the carpet found in the boyfriend’s home, or the nice old grandma that lives down the street that has the same model of carpet in her home. So while class characteristics are not unique in terms of identification in the way that they cannot make a unique connection between the evidence sample and a suspect sample, they still allow the investigation to narrow down information about the fibers. We know they are carpet fibers from a particular brand and a particular model.
+
+In contrast, individual characteristics are the second kind of classification. Individual characteristics are features of evidence that indicate a highly unique source. So instead of being linked to a class, they can potentially be linked to a single source if a comparative suspect sample is available. Some examples include striations and impression marks produced by something like a screwdriver’s tip (this could match marks on the evidence), DNA profile from biological evidence, or a person’s unique wear patterns on a shoe sole from how they distribute their weight; this could be matched to an impression found in the mud.
+
+Note here that it is not the standard manufactured shoe sole pattern that is unique. That is the class characteristic. It’s the actual wear pattern itself of the rubber sole due to the weight transfer during walking by that unique person that wore that unique shoe. The random imperfections or irregularities of evidence can be produced incidental to the manufacturing process and/or as a result of the use and deterioration of that object over time and thus yields individual characteristics that can be brought on into a crime scene investigation.
+
+While individual characteristics of evidence can single-handedly produce comparative analyses with highly probable association of common origins, class characteristics cannot. However, the application of a little statistical probabilities—yes I know this is math, don’t be scared—with this application of some statistics we can actually have class characteristics be very useful in an investigation of comparative analyses between evidence and suspect samples.
+
+For example, let’s say a body is found in a shallow grave by a river. A soil sample is collected from the suspect’s shoes to see if there is a match between the soil composition of the grave and/or the surrounding area and the sediment found on the suspect’s shoe sole. The test results from the shoe and evidence show the presence of pollen, phosphorus, and potassium. So the question is: what’s the probability that the soil from the shoe actually comes from the site of the grave? To determine this probability, we need to know the probability of finding each of these 3 independent substances in soil around the United States.
+
+When soil reference databases are examined, one finds the following: Pollen is found in 25% of the soil in the US. Phosphorous is found in 50% of the soil, and potassium is found in 10%. Thus we have to calculate a probability that actually is the combination of all 3 being found in the soil. But first before we do that, we have to calculate the independent probabilities.
+
+This is a simple extrapolation from the percentages provided in the databases. Thus, the probability of finding pollen, phosphorous and potassium is 0.25, 0.5, and 0.10, respectively.
+
+But what’s the probability of finding all 3 in combination? This is important because 25%, 50%, and 10% are nowhere near unique enough, in terms of their percentage distribution, to be classified as an individual characteristic. These would all fall underneath class characteristics.
+
+So in order to look at the combination, this actually requires us to use the product rule. The product rule states that the probability of multiple events occurring at the same time is determined by multiplying each of the independent events together.
+
+So here our multiple events are the 3 different soil types, and assuming that they occur at the same time, this is the fact that all 3 soils were being found in 1 location in the grave and 1 the shoe. How you write this out looks fancy and complicated, but it’s not.
+
+“P” in parenthesis means the probability of whatever is contained in the parenthesis. So here P(pollen) just means that probability of finding pollen in US soil is, and it would be .25. The probability of finding phosphorous is .5, and the probability of finding potassium equals 1.
+
+Then, to calculate the joint probability or the combination, we say the probability in parenthesis of pollen, phosphorus, and potassium equals the probability of finding each of the substances multiplied together. So you multiply .5 by .25 by .1, and this yields .0125. Therefore, the probability that all 3 properties being in the same soil in the US is 1.25% and it is therefore 98.75% (this is just 1 minus the probability we just found); it is basically 98.75% probable that the grave soil sample and the shoe soil sample are from the same origin.
+
+Not all evidence characteristics can be integrated into numeric probabilities like we’ve seen above, and this is because there is no comparative baseline to use in the calculation. For example, in the previous examples we had things like the probability of finding phosphorous in the soil, and we had a numeric probability assigned with that. Here’s some examples to think about where no numeric probability can be assigned:
+
+How many striations are necessary to individualize a mark to a single tool and no other?
+
+How many handwriting characteristics must you look at on a document to actually tie it to a single person’s and to their signature and no other?
+
+And how many ridge features on a fingerprint does it take to make in an individual fingerprint?
+
+In these cases, it is not possible to state with mathematical exactness the probability that 2 compared specimens are of a common origin. We don’t have a baseline for some of these, and may never. At some point, it can only be concluded that the probability of finding additional matches to the case sample is so high as to defy mathematical calculations of human comprehension. This is an assumption of uniqueness, as it is not possible to go out and test every single fingerprint or signature or tool available in the world.
+
+Because of the fact that not all evidence can be presented with the same level of mathematical or scientific rigor, it is important that guidelines are established which outline acceptable and unacceptable types of evidence for a case. In order for evidence to be admissible in a court, or this just means allowed or introduced, it must be relevant and reliable. In order to determine the relevancy and reliability of evidence, the U.S. courts have established several guidelines through the years to determine admissibility of evidence.
+
+When you’re composing information to go to trial, you need to bring evidence that’s going to be significant, right? So when this comes to mind and you think about all the information and the evidence that’s collected from a crime scene by the CSI unit, you start to wonder—okay, well, what is going to be actually useful in the crime? So, the question is, is really can anybody bring in any piece of evidence, or how do we qualify evidence, right, for actually being appropriate, and this is what we mean by admissibility, so can you actually bring evidence into court and what determines this, right?
+
+So, when talking about admissibility of evidence, there’s kind of 2 questions that need to be asked, you know, that are basic, which is, you know, really what evidence is actually acceptable to be brought into the court for a particular case, and how does the jury and/or the judge know what evidence is actually valid, right? If you think about it, the judge and the jury typically have no prior information to a case, so they don’t know where the evidence is coming from, why it’s significant or not significant, so basically this has to be explained and validated by the prosecutor or the defense.
+
+So, when we think about evidence to be admissible in court, there’s typically 3 things that are expected. First is that it will actually be relevant to the case on trial. Next is that it will not be unfairly prejudicial or biased, and third is that it has some standard of reliability. And so this, you know, is basically the one that we’re going to focus on. The last one, in terms of reliability, is something that you can actually look at through the scientific method if you think about hypothesis testing.
+
+So if we think about the scientific method, and we think particularly about the hypothesis, right, the hypothesis is actually a proposed explanation of an observation. And when you’re forming a hypothesis, it needs to be 4 things—it needs to be testable or falsifiable. If you can’t actually test it, if you can’t actually find that it’s correct or incorrect, then there’s really no reason to create the hypothesis. It also needs to be building on what is already known, so that’s what we’re saying here where we say consistent with what has already been confirmed. It needs to build on prior knowledge, and that means that your hypothesis is actually informed. It needs to be predictive in this way that it can actually—we can draw conclusions from it, and it needs to be simple. If you make your hypothesis overly complex, then it becomes very difficult to arrive at a conclusion or draw conclusions or even to create tests to test the hypothesis.
+
+So the goal of any scientist is really to falsify the hypothesis after it’s been formed, and if you think about evidence, confirming evidence, really, is only justifiable when it comes out of an attempt to falsify. So you have to have hypotheses or a scientific approach, and this is ultimately the foundation of forensic science. And remember that it’s usually the simplest explanation that’s preferred, and this goes back to having a simple hypothesis.
+
+So just a refresher of the scientific method and how it would be geared in forensic sciences. You make an observation at a crime scene. So perhaps you see something like blood spatter. And the blood spatter is in a particular arrangement across the wall or the floor. You have to invent a hypothesis to explain why the blood is in this particular pattern. Then you can say, “Okay, well I think that the blood is in this particular pattern because it—it was the result of the person being hit with an object and the blood spraying,” right? So you would say—so then you test this hypothesis, and you would say what does blood look like, you know, when a person is being impacted and the blood droplets spray and they have that force behind them, as opposed to just having gravity. So you would create a test and you would probably have to control for lots of variables, but after you created that hypothesis, your hypothesis—I mean, your test—your hypothesis would either pass or would fail, okay?
+
+If you’re able to pass it, then you can actually create something called a theory, and this would be basically a premise of expectations—of how something works in the world. So this would be something like, for example, what we’re talking about here with the blood spatter—that the patterns are pretty consistent when a particular force or velocity is impacted into the person and you see the blood spray. Okay? So if you can create a theory, this is something that can also be tested, and if you can test the theory and test it many times and it continues to pass, then it can be generated into a law.
+
+You can see at any of these stages, whether you’re testing the hypothesis, you’re testing the theory, or you’re testing law, that you can fail, and when you fail you have to go back to the beginning to your original observations and reinvent a new hypothesis that can explain the scenario because obviously your prior one failed.
+
+When we’re distilling this figure that you’re looking at into the crime scene, the observation, right, usually is happening at the crime scene, for example with our blood spatter. You’re going to formulate a reasonable hypothesis to address why that observation is occurring, and then you will test that hypothesis through experimentation, and then the most important part related to admissibility of evidence in court is that the methods used to test the hypothesis must be validated. And really, in this sense, validation is just saying that it was a correct approach, it can be repeated, it can be confirmed.
+
+So how do you demonstrate validation of scientific methods and measures or tests in court? Well, there’s been several key cases in the US that have helped to shape the US judicial system’s perspective on this question.
+
+The first is actually from 1923, and this is James Alphonso Frye v. the United States. And in this case a prominent physician was actually murdered in the DC area in 1920. And James Frye was actually the suspect of this murder, and he actually confessed to this murder to the metropolitan police in 1921, and ultimately he was convicted of second-degree murder. Well, two years later, Frye actually appealed his conviction. He said, “Look. I actually want to reintroduce some evidence. I want to show that if I take something called a systolic blood pressure deception test” (which is really a crude precursor to the polygraph that we know today, also known as the lie detector test), he basically said, “Let me take this test. Let me take this scientific test to actually convince you that, you know, I’m not lying about this. You know, I really didn’t commit this murder. Well, the court actually decided to not allow the appeal to go through. Ultimately the reasoning had to do with the validity of this evidence, right, and the evidence in this case being this systolic blood pressure deception test. And what the justice, Van Orsdel, said in regards to this is that, you know, “just when a scientific principle or discovery crosses the line between experimental and demonstrable stages is difficult to define. Somewhere in this twilight zone the evidential force of the principle must be recognized. And while courts will go a long way in admitting expert testimony deduced from a well-recognized scientific principle or discovery, the thing from which the deduction is made must be sufficiently established and to have gained general acceptance in the particular field in which it belongs.”
+
+So, from this statement and from these conclusions from the Frye v. United States in 1923 case, came the Frye standard. And really what this did was this actually allowed us to set the guidelines for determining the admissibility of evidence in the courtroom, and ultimately, how we decide whether or not evidence is admissible was first determined by the Frye standard.
+
+To meet the Frye standard, evidence in question must be generally accepted by the scientific community. Well, generally accepted is not really a quantified term, right? It’s more qualified. So what qualifies as generally accepted? Well, the 2 recommendations that came out of the Frye standard were that to be generally accepted you must have multiple expert witnesses, and in this case an expert witness is usually a professional in the field, so somebody else who focuses or works on the evidence in question. So, you must have multiple expert witnesses saying, “Yeah, you know, this method or principle, you know, from which the evidence came is actually fine. It’s accepted.”
+
+And you also have to have publications and peer review of that method or principle in journals. So, you know, this is what today, you know, professors are doing. They’re creating experiments, they’re doing research, they’re generating manuscripts, and they’re submitting them to publication and journals, and those—and whether or not those—their information or their ideas are accepted or rejected is based on peer review. And this means that other experts in the field are reading those manuscripts and deciding whether or not it’s worth publishing or not. So these are kind of the 2 standards the Frye standard developed.
+
+The next set of rules that came into play in the US was the Federal Rules of Evidence 702, which was focusing on a testimony expert or the expert witness. And this is important, right, because when you say expert witness, how do you establish somebody’s expertise in a field when there’s only non-experts around in the judicial system, right? So if somebody is a specialist in, you know, DNA analysis, and the jury and the judge are not trained, how are they able to tell whether or not this person qualifies as an expert witness? So, to define expert witness, this is essentially a person who’s permitted to testify at a trial because of special knowledge or proficiency or expertise in a particular field that’s relevant to the case or the evidence of question. And how are they qualified? They’re typically qualified by degrees, certifications, training, etc.
+
+In court if you have this specialized knowledge, right, and it’s actually relevant to the fact and issue, which is typically going to be something like evidence, okay, so, again a geneticist for DNA, an expert witness can testify to their opinion if they kind of meet these 3—these 3 standards. First, that their testimony is actually sufficiently based upon reliable facts or data, that the testimony’s a product of reliable principles and method, and that the witness has applied the principles and methods reliably to the facts of the case. And this makes sense, right, because you can have information established in theory or experiments that are published in the journal, but if the actual person—this actual expert witness—is misinterpreting or misapplying these methods or principles, then they aren’t reliably applying the facts to the case.
+
+So the key here—you can see what we have emphasized—is the reliability, right, so what we find is that expert witness testimony and scientific evidence are essentially admissible in court if they are “reasonably reliable.” And you can see here that now we have 2 kind of gray descriptions, right, we have generally accepted from the Frye standard and then we have reasonably reliable from the FRE 702 rules. But what we—what tends to be focused on is that the reasonably reliable is actually more lenient than generally acceptable.
+
+Now in 1993, Daubert v. Merrell Dow really changed the standards, and is really—is really actually something that is used today as well in many states. And this case for Daubert v. Merrell Dow is that there were about 1700 actions alleging that Bendectin, which is an anti-nausea drug, was causing birth defects. So, you know, 1700 cases were brought forward. And Merrell Dow, which is actually the company that makes Bendectin, was going to be, you know, held accountable for these—for these cases, alleging that Benedictinwas causing birth defects. And so Merrell Down said, “Listen, here is some published, you know, epidemiological, you know, studies demonstrating that Benedictindoesn’t cause birth defects.” And so they said, “You know, listen, there’s no—there’s no case here.” Like, “We’ve can—we’ve clearly established this through published peer-reviewed evidence.” Well, Daubert said, “Okay, we’re going to offer our own expert witness testimony.” And so what he—what Daubert went out and did was they had—they had scientists actually do live animal studies, and in these live animal studies, what they found as a result was evidence that showed that Benedictincould cause—that similarities Benedictinin agents known to cause birth defects, so we found—so we saw here in these live animals studies, that yeah, you know what, when we reanalyze these studies performed that are cited by Merrell Dow that Benedictindoes, in fact, cause, you know, birth defects.
+
+Well, then Daubert offered this information as expert witness testimony, and what they found was that the district court said, “Listen. If we hold to the Frye standard of general acceptance, then Daubert’s expert witness testimony is inadmissible.” Why is it inadmissible? It’s inadmissible because it hasn’t been published in peer review journals, right? It hasn’t had time to gain general acceptance because it was done directly in response to this case.
+
+So then after the district court, this actually was appealed and brought all the way to the US Supreme Court, and when the US Supreme Court reviewed Daubert, they actually ruled that FRE 702 does not require general acceptance. It actually, remember, is going to be reasonably reliable. So what this established, you know, by the Supreme Court overturning this is that, first of all, they stated that the Frye standard is not an absolute prerequisite to the admissibility of scientific evidence, and we can have these more lenient things like FRE 702. And really, also, the key thing that came out of Daubert is that when the Supreme Court overruled this, they actually established that it’s the trial judges themselves who are ultimately responsible for the admissibility and the validity of scientific evidence presented in their courts, as well as the expert witness testimony. So in this sense, they are kind of the gatekeepers of what is admissible and what is not admissible, and what they were saying was, “Listen, even though the, you know, the Daubert expert witness testimony hasn’t had time to be published, it’s still valid.” We can see that it took all the appropriate channels of doing the scientific method approach and generating data, so there’s no reason that the judge shouldn’t be able to actually have the final say and be the final gatekeeper to say, “Okay. This is actually appropriate to bring into court,” versus “This is not acceptable.”
+
+So when we review, actually, the Daubert criteria for admissibility of evidence, there actually are 4 main criteria. The first is whether the scientific technique or the theory used for the evidence has been tested, whether the technique has been subject to peer review and publication, whether the techniques have an acceptable rate of error (so this is referring to the statistics), and whether the scientific theory or method has attracted widespread acceptance within a relevant scientific community. So the judge can actually use this criteria to establish whether or not evidence is admissible.
+
+And what you can see here is we have a list from –I think this is from 2011—that shows you what states actually accept Daubert, okay, and what states accept Frye, and then there’s a combination—some states actually use a hybrid standard. So, what you can see is that this is kind of has quite loose interpretation, right? And what is important to note is that those states that have Daubert, Daubert actually supersedes Frye, but what happens is that some believe that Daubert will actually result in the admittance of pseudoscience because what you have is ultimately the judge who is a non-expert in these expert witness testimonies or these evidence that’s wanting to be admissible in court, these judges are not experts, but yet they are the final gatekeeper.
+
+The next case that we’re going to talk about is Kumho Tire Company v. Carmichael that happened over about 15 years ago. Now Carmichael is the person of interest, and Carmichael was driving a minivan, and while they were driving the minivan, the tire blew out, and as a result the vehicle crashed, and one of the passengers died and the other ones were injured. And what Carmichael did was Carmichael actually sued the tire company, which was the Kumho Tire Company, and he was claiming that, “Listen. The tire was defective, and because it wasn’t just natural—you know, I was paying attention to it; I was caring for the tire. This tire was actually defective; it had no prior information or indications that it would actually fail, so it was defective, and this is, you know, not my fault.” So he was suing.
+
+What happened was is, you know, because he was making this claim that the tire was defective, his case rested largely on the expert witness testimony of a tire failure expert. So if we implement Daubert, right, the district court judge is going to act as the gatekeeper, and in this case the district court judge said, “Listen. I don’t think that it’s sound scientific evidence to what your tire failure expert is presenting.” So he actually excluded this unsound evidence. Or what he considered to be unsound.
+
+Then it went to the Eleventh Circuit Court, and the Eleventh Circuit Court actually overruled the district’s court ruling, and they said, “Listen. This is not about scientific evidence. This is about technical evidence, and technical evidence is different than scientific evidence.” Now this case, you know, the tire failure expert is talking about technicalities.
+
+Then what we saw was the Supreme Court came in and reversed the Eleventh Court decision to overrule the district court, and they said, “Listen. The line between scientific and technical knowledge is really not clear and how we would distinguish between them is—we don’t have a guideline for that.” So what they found was that, you know, listen, there’s no convincing need to distinguish between, actually, technical and scientific evidence, and ultimately what that means is that the court’s judges, again, can act as a gatekeeper for both technical and scientific evidence, and the Eleventh Circuit’s Court’s ruling that technical and scientific evidence are different is not acceptable. So ultimately the impact of this ruling is that Daubert was actually going—was actually extended to rule not only as the judge being the gatekeeper of scientific evidence but also the technical evidence. So essentially, the judge is now established as the gatekeeper to all expert testimony.
+
+[SMRY]
+Crime Scene: A crime scene is any physical scene, anywhere, that may provide potential evidence to an investigator. It may include a person’s body, any type of building, vehicles, places in the open air, or objects found at those locations. “Crime scene examination,” therefore, refers to an examination where forensic or scientific techniques are used to preserve and gather physical evidence of a crime.
+
+Upon arrival:
+
+1. Locate, assist, and detain potential suspects, victims, and/or witnesses
+- Survival is top priority
+- Can provide perspectives on what transpired at the scene
+2. Secure crime scene by establishing boundaries
+- Goal: to protect crime scene evidence
+- Crime Scene Perimeter: Boundary around area with potential to include crime scene evidence. Only authorized personnel allowed in the single entry/exit to the crime scene perimeter. Documentation of who enters and when (time, date)
+3. Call for additional personnel
+- Crime scene investigators, crime scene photographers
+- Specialists: arson, burials, skeletal remains, fingerprints, etc.
+4. Command Center setup
+- Lead CSI assigns tasks
+- Equipment gathered here
+- Serves as meeting location
+- Communication between primary and other crime scenes, as well as headquarters
+
+Searching for and securing physical evidence:
+
+Document and describe scene condition through Photography, video, 3D imaging. Systematically and thoroughly search the crime scene. For larger areas, or outdoor areas, the Zone pattern is best. Breaks up the larger area into smaller zones, with investigators assigned to each zone. Often times an additional search pattern (e.g. line search) will be used within each zone to ensure it is sufficiently searched Search pattern differs depending on scene and investigator preference.
+
+Types of Search patterns: Line/Strip search pattern, Grid Search pattern, spiral search pattern, wheel/ray search pattern, zone search pattern. 
+
+During search flag obvious evidence: Evidence ranges from large (like a car) to microscopic (like skin cells). If present, locate assailant’s entry and exit to scene. 
+
+Purpose of scene photography: Pictorially recreates the crime scene, Refreshes memories and helps to recall details and review particular aspects of the case, Illustrates details of a scene and the relationships of objects in the scene, Visual evidence for the jury, Proof of crime scene.
+
+Types of photos: 
+Exterior photographs: Shows location/address
+Overall photographs, Shows relationship of evidence items, A "visual tag" is helpful when piecing together your overall photos, this is an object that is repeated in multiple images, and helps to associate images with one another.
+Medium distance photographs
+Specific close ups (ALWAYS USE A SCALE!): Fill frame of camera
+
+Sketches of crime scene: Drawings help highlight objects/features shown in photos while excluding superfluous details that photography cannot (i.e., simplified). They are useful in juried trials when trying to hone in on particular aspects of the crime scene.
+
+Physical evidence:
+Any physical object that can be brought into the courtroom and shown.
+
+Physical evidence can be broken down into 2 main categories:
+
+Fragile/Transient Evidence: unstable evidence that can be easily altered or degrade over time, needs to be either carefully maintained in current state to ensure longevity OR
+reproduced in a more stable state; e.g., casting a foot impression or exposing the body fluid to chemicals or temperatures that limit decomposition
+e.g., foot/hand impressions, fingerprints, blood or urine, gunshot residue
+Solid/Tangible Evidence: Evidence that is stable over time and in a variety of environments, More easily stored than transient evidence
+e.g., firearms, cartridge cases, clothing, glass, drugs, documents (checks, notes, receipts), computers, cell phones
+
+Collecting and Packaging Evidence: Goal: preventing contamination, degradation, evaporation, and/or accidental damage. Gloves, disposable forceps, and sanitized equipment reduces the chance for contamination from one scene to another or one investigator to another. You can use a evidence collection kit.
+
+Chain of Custody:  list of all persons who came into possession of an item of evidence.
+“Continuity of possession” established whenever evidence is presented in court
+
+Every person who handled or examined the evidence and where it is at all times must be accounted for. Each time evidence changes hands, you must document the following: location of evidence, time and date of transfer of evidence, persons involved in the transfer, reasons for the transfer, signing chain of custody acknowledgement forms.
+
+Examination of Physical Evidence: Identification: to determine the physical or chemical identity of a substance.
+Comparative Analysis: to determine whether the sample from the suspect or crime scene have a common origin. e.g., to test whether carpet fibers embedded in the body found in a field are the same fiber composition of the carpet in the suspect’s home
+
+Performing Comparative Analyses: Comparing 2 samples: case sample and suspect sample
+Both samples subject to SAME tests (eliminates bias from test performed).
+
+2 Steps: Perform tests on case and suspect sample, Based on test results, forensic scientist draws a conclusion regarding the commonality of origin for the 2 samples.
+
+The accumulation of multiple, independent comparative matches increases the likelihood of linking the evidence to a single suspect. 
+
+Class Characteristics: Features of an item that indicate a restricted group source based on design factors determined prior to manufacture. All evidence has class characteristics. May be shown to be like or consistent with a source sample, although not uniquely identifiable with that source. Examples: Carpet Fiber, Shoe Sole impression.
+
+Individual Characteristics: Features of evidence that indicate a highly unique source. May be uniquely identifiable with a source sample to compare to. All evidence does not necessarily have individual characteristics. Examples: DNA profile from biological evidence, Wear patterns on a shoe sole impression in mud.
+
+Use the product rule to figure out the likelihood of having more than one physical evidence type present. Note: To use the product rule, all events must be independent. 
+Example: Pollen is found in 25% of the soil in the US
+Phosphorous is found in 50% of soil in the US
+Potassium is found in 10% of soil in the US
+0.25*0.5*0.10 = 0.0125 
+The probability of all 3 properties being in the same soil is 0.0125, or 1.25%
+It is 98.75% (1-0.0125= 0.9875) probable that the grave’s soil sample and the shoe’s soil sample are from the same origin. 
+
+Not all evidence can be used to generate mathematical probabilities
+Reasons: inability to establish a baseline of the variation that exists in the world for a given object, not unique characteristic.
+
+Admissibility of Evidence: Be relevant to the case on trial, Not be unfairly prejudicial, Have some standard of reliability.
+
+Scientific Method in Forensics: Observation usually at a crime scene, Formulate a reasonable hypothesis to address the observation, Test the hypothesis through experimentation, Methods used to test hypothesis need to be validated, Without validation, scientific evidence and test of hypothesis may not be admissible in court.
+
+Key Court Cases:
+James Alphonso Frye vs. United States (1923):
+-A prominent physician was murdered in Washington DC in 1920
+-Frye was suspected of the murder and confessed to Metropolitan Police in 1921
+-Frye convicted of 2nd degree murder
+-1923 Frye appealed his conviction
+-Issue with court’s refusal to let Frye introduce evidence about his truthfulness through a “systolic blood pressure deception test”—crude precursor to the polygraph
+-Court decision upheld in appeal
+-Reasoning from Justice Van Orsdel: evidence getting method must be sufficiently established + generally accepted to be used in court
+
+Frye Standard: evidence in question must be “generally accepted” by the scientific community
+Generally Accepted: Multiple expert witnesses confirming method/principle from which evidence came, Publication and peer review of the method and/or principle in journals.
+
+Daubert vs. Merrel Dow (1993)
+1,700 actions alleging that Benedictin (anti-naseau drug) caused birth defects
+Merrel Dow provided published epidemiological studies demonstrating that Benedictin does not cause birth defects
+Daubert offered expert witness testimony
+Live animal studies suggesting causation
+Similarities of Benedictin and agents known to cause birth defects
+Re-analysis of the published studies of Benedictin
+District court held to Frye standard of “general acceptance”
+Daubert’s expert witness testimony was inadmissible
+U.S. Supreme Court reviewed Daubert and ruled that FRE 702 does not require “general acceptance”
+Frye standard is not an absolute prerequisite to the admissibility of scientific evidence
+U.S. Trial judges are ultimately responsible as “gatekeepers” for the admissibility and validity of scientific evidence presented in their courts, as well as all expert testimony
+
+Daubert Criteria For Admissibility of Evidence
+1. Whether the scientific technique or theory has been tested
+2. Whether the technique has been subject to peer review and publication
+3. Whether the techniques have an acceptable rate of error
+4. Whether the scientific theory or method has attracted widespread acceptance within a relevant scientific community	
+
+Kuhmo Tire Co. vs. Carmichael (1999)
+Carmichael driving a minivan and the tire blew out
+One passenger died and others injured
+Carmichael sued Kuhmo Tire Co. claiming that the tire was defective
+Carmichael’s case rested largely on expert testimony of a tire failure expert
+District court judge acted as “gatekeeper”
+excluded what was considered unsound scientific evidence
+11th Circuit court overruled district’s court ruling
+technical evidence versus scientific evidence
+Supreme Court reversed the 11th court decision to overrule the district court
+Line between “scientific” and “technical” knowledge is not always clear
+No convincing need to distinguish between the 2 types of knowledge
+Impact of ruling: Extends Daubert ruling and the role of judge as the “gatekeeper” to all expert testimony
+
+[TEXT]
+Common misconceptions in forensic anthropology—there’s 12 here that I’m going to review. The first is that we actually conduct criminal or death investigations. And what’s really important to recognize is that it’s going to be law enforcement agents—agencies or the coroner or MEs’ investigators that actually conduct investigations. Our approach is simply to get permission or request from those agencies to look at a body and create information, or observe information. So we’re a very small part of any criminal investigation, and we don’t conduct them. We have to be brought on officially or requested officially by that agency that’s actually conducting the investigation.
+
+And this leads me to the second point, which is that forensic anthropologists, we don’t get to decide as a practitioner whether or not we should be part of an investigation. So for each different case, the investigator whose case that is, at the ME’s office or at the law enforcement agency, these are the individuals who decide whether or not they want to bring on the expertise of a forensic anthropologist to be a part of their investigation.
+
+Determining cause, mechanism, and manner of death—we as forensic anthropologists, we may generate information that allows someone else to actually determine these relevant contexts around the death, but we actually aren’t the ones that actually make that ruling. So typically, as you guys have learned before, this is either going to be the coroner or the medical examiner.
+
+Analyzing non-skeletal evidence—typically, you know, when we get a body, there may still be personal effects associated with the body, there may be soft tissue, or there may be something that’s related to the decomposition or the environment of where the body was deposited. So, for example, there could be dead bug or larvae casing associated with it, and we may collect this information and bag it and send it to someone else, but essentially, I’m not qualified as a forensic anthropologist to, you know, do things like rehydrate soft tissue of a hand to roll a fingerprint for that. We would bring in other expertise. So in these shows where you see that anthropologists are doing a lot of different roles, it’s actually not that—that’s not the reality. Typically everybody has a specific role and they’ve developed an expertise in that role.
+
+Number 5—a common misconception is that we communicate and interact with the families of the victims. There are some exceptions. Some of these international organizations that work with human rights or mass disasters, they may interact more with the families, but for the most part forensic anthropologists have very limited interaction with the families of the victims; typically who the families of the victims will contact are the investigators, the head investigators of that case. And it’s the investigator’s responsibility to provide that information that follow—to follow up with the family.
+
+We rarely will go on crime scenes. This is something where typically if it’s—if a scene is outdoor or there’s a burial, something where the expertise of an anthropologist, right, where they can actually identify very small bones in kind of a complicated space where there’s going to be groundcover or something that could cover up small bones, or a burial where if we have a background in doing something like an excavation on the archeological training side, these are both useful skills to have on a scene that’s outdoors.
+
+In addition to not communicating or interacting with families, we also don’t take a role in interacting or communicating with suspects that are being held at the local prison or jails, and we’re not involved in conducting that interview. In fact, it’s better for us not to have information regarding the crime at all because what that can do is that can actually bias our analysis, right? So if we engage with a suspect, and the suspect says, “Yeah. I shot that person twice,” well, then all of a sudden, when I go to my case, I’m looking for 2 wounds associated with gunshots, and that biases me from being able to see other things or to maybe interpret it differently, and it’s really unhealthy to have that kind of bias embedded already in your mind because, you know, the truth is that this is around a questionable circumstance, and the motivations for somebody telling the truth are not very high. So it’s much better to be able to not have any interaction with suspects and actually go in with no information, or what we would call, you know, going in blind to working on a case.
+
+We don’t use single lines of evidence to draw conclusions, so, you know, and typically we won’t do this immediately. A lot of times on these shows you’ll see them go to the scene, pick up a bone or something, and be like, “Got it! I know it’s a female, and the person was this old,” and typically, you know, we like to look at all information that can be accrued from a single skeleton and then arrive at an answer. So we actually don’t like to jump to conclusions from just a single bone or in a quick amount of time.
+
+We don’t solve crimes, right? We are just a small component of the entire investigation.
+
+It is also rare for forensic anthropologists to work in crime labs or private practices. And, although this is where, like, on the show Bones she’s actually positioned in a crime lab, it’s rare because forensic anthropologists are obviously classically trained as anthropologists and do forensic anthropology on the side. And because of this, they don’t have other tools that make them a useful employee at a crime lab year round. And what I mean by this is, think about it, most of the bodies that are recovered in the United States, for example, are not in need of forensic anthropology case analysis. And this is because the majority of bodies are actually found before the soft tissue has decomposed to the point that they need a forensic anthropology expertise in to just analyze the skeletal remains. So because of that, it’s really hard to validate a full annual salary for a forensic anthropologist if that’s all they do. However, having said that, in areas where there is actually a high traffic of individuals, you will actually need a full-time forensic anthropologist, just because of the sheer amount of people, you will get more cases that are just skeletonized remains. So in areas like the New York Medical Examiner’s Office, as well as a few big cities in Arizona, we do actually have full-time forensic anthropologists working.
+
+In other cases, what you have is you have people who actually have the specialization of forensic anthropology, maybe even have a PhD in or a master’s to practice it, and in this case they’re called in when the rare case of a skeletal remain comes into the lab, but for the most part they are employed primarily as another expert, so perhaps they have the qualifications or certifications to be a fingerprint examiner or a crime scene investigator. So this is when you will actually see people with a forensic anthropology background is when they’re actually probably paid primarily to do a different job.
+
+In terms of this, then that means that actually we rarely work with other specialists. We’re not trying to solve the crime. It’s the crime investigator for that particular case that is going to work and get the information and the feedback from all the different specialists, so if they have a toxicology report or an entomology report or forensic anthropology report. If I was a forensic anthropologist for a case, I wouldn’t get to see the entomology report or those other reports because it may bias how—what I am actually able to interpret from a skeleton. So it’s best for us all to work individually and then refer all of our information back to the case investigator and have that investigator merge, or synthesize, all the information from the different expertise into single conclusions about things like the cause and the manner of death.
+
+And the other thing that this actually leads into intuitively is the final misconception that I want to bring up, which has to do with knowing about the crime. So again, it’s the case investigator who knows the majority of the details. The less details the forensic anthropologist knows the better. That way they can do an unbiased analysis of the skeletal remains.
+
+So what I mean by this is, for example, if you have a case and they came in, and they said, “Oh this is a John Doe. We need you to analyze him,” already the case investigator has given you information about what they think the sex is, and maybe they have good reason for that. Maybe the person was wearing, you know, jeans and a button-down polo, and had a male-style wallet and keys or something that led them to believe it was a male. Or maybe the skeleton was, you know, garbed in a dress when they found it, so they think it’s a female. But these, you know, there have—there have been cases, you know, documented by forensic anthropologists where they’re pretty sure it’s a Jane Doe because it’s wearing a dress and it turns out to be a male skeleton through the analysis. So it’s really important not to be biased in those ways because what happens is as a forensic anthropologist goes through, subconsciously they may be looking for features that are more consistent with the knowledge that they have and glaze over features that are inconsistent with that knowledge that was given to them. So it’s best to know very little about the crime.
+
+So, who do forensic anthropologists work for? I think the biggest misconception is likely that forensic anthropologists most commonly are employed at medical examiner and coroners’ offices or at something like the FBI. In truth, a large number of forensic anthropologists’ primary employment is at a university where they’re professors of anthropology and typically run some sort of university-based laboratory where they can actually analyze forensic cases. Where do these cases come from? They come from the local county coroner’s and medical examiner’s offices. So when the skeletal remains pop up, they can drive them over and have the forensic anthropologist analyze them in their lab space. And in this context, what you can see is that it’s really necessary that the forensic anthropologist reach out and establish a working relationship with the local MEs and coroner’s offices. And this is really to ensure that these offices know kind of what, what kind of cases forensic anthropologists can be of use on, and also that they’re there, present and available, and willing to help out.
+
+Because medical examiners and coroners have jurisdiction over the cases, it’s really only at that request of these investigators that forensic anthropologists at universities actually will get any casework. And this is a mutually beneficial relationship because the faculty at the university—these forensic anthropology faculty and their graduate students have cases to gain, which to gain experience of, you know, specifically working on cases. And without this exposure, they really wouldn’t become familiar with the application of methods and the chain of custody protocols involved in working with death investigations. And in return, right, it’s mutually beneficial for the death investigators because they’re actually provided with expert analysis and a case report, ultimately, of the forensic anthropologist’s findings.
+
+In larger cities, such as like the New York Medical Examiner’s Office, a forensic anthropologist, or multiple forensic anthropologists, can be employed full-time at the office. This is less common, but there are a number of offices in the US that this does occur. In addition, there are international organizations, such as Physicians for Human Rights, when, in this case, forensic anthropologists work on a team of individuals that go to countries where, really, human rights atrocities have occurred, and the goal of Physicians for Human Rights is to go there to collect evidence and aid in human rights work in these areas. Oftentimes this involves the recovery of human remains from mass graves and the subsequent full forensic analysis, which does include a forensic anthropology analysis and, you know, DNA when possible. In addition, forensic anthropologists can be employed full-time in these kinds of organizations, although the number of available positions are quite few.
+
+The following list of a forensic anthropologist’s responsibilities are the more traditional roles of a traditional forensic anthropologist. If we do go on scene, for example, it’s usually outdoors, and we’re requested to help differentiate human from non-human skeletal material or skeletal material from things like stones or pebbles or branches.
+
+In a recent case, for example, I spent 2 days walking in a shallow river with several law enforcement. Fragmented human cranium was recovered in the river a few days before, and the investigators wanted to see if more human material was out in the river, so I was there to basically differentiate anything that came up whether it was human or non-human.
+
+Assessing forensic significance is also a useful component to an investigation that a forensic anthropologist can provide. Human remains that are found that can be tied to the last 50 years are considered to be of forensic significance. While it’s pretty difficult, if not nearly impossible, to discern whether or not recovered human skeletal remains are, say, from 60 to 80 years old instead of 45 to 50 years, based solely on the skeletal remains, some more extreme dates can actually be determined by the anthropologist.
+
+For example, it’s common for prehistoric Native American burials that were not previously known to be in a particular location to become unearthed during construction of a new building. To be sure that these remains are actually prehistoric and not of forensic significance, often forensic anthropologists are asked to look and take cues or clues from the skeleton that can help derive this information. Some of these cues from the skeleton are useful to look at for traits that are consistent with Native American ancestry. These traits are typically found in the cranial region and in the teeth, and we find these traits in high frequencies, so we can actually establish Native American ancestry. This alone, however, knowing something about ancestry, really only places the skeletal remains within a geographic context, not really within a temporal context, and for forensic significance, we’re interested in that temporal context. So, in addition to the ancestry, features that can actually place the skeletal remains to a prehistoric timeframe are particularly associated with tooth wear.
+
+Think about back in the day when humans commonly used stone and clay tools and vessels for food preparation. A lot of residual grit ended up in the food, and then the human teeth were exposed to it as a result of when they’re chewing the food that’s combined with that grit. This kind of grit exposure to the enamel surfaces in our teeth, coupled with the continual use of teeth as tools, tooth wear, actually, on the tooth cusps, from the grit in the diet, yields a clear indication of tooth wear, and this tooth wear is something that is strongly linked to non-forensic skeletal remains because in present day, while we have tooth wear, it’s not as extreme as it was in the past. So you look for these extreme patterns, and when these are present on these remains, this is something when go ahead and rule out the cases being of forensic significance.
+
+In addition, forensic anthropologists can be asked to actually use a bone saw to cut out a small section of bone to be sent off to the DNA lab for DNA analysis.
+
+And then the additional things listed here are actually things that we’ll review slightly in this course. So the postmortem interval estimation, this is actually an estimate, like it says, of the time from when the person has died to when the body was discovered. So how much time had passed between the discovery of the actual body and since that person actually died?
+
+Minimum number of individuals—so, you know, the presumption is typically that you would find 1 body alone, but in a burial context or a mass grave context, you don’t know how many individuals are in that grave, so you never want to presume that you just have 1. So you have to take a certain methodological approach to take an inventory and establish the minimum number that could possibly be occurring in the sample.
+
+We also can be asked to do trauma analysis. So this would be usually information if there’s suspected violence on the case. So if they want a description of any trauma that we see, and if we can link that to something like sharp force or blunt force or projectile, and the extent of the trauma.
+
+We also asked to sometimes generate something called a biological profile, which is really like the basic information and basic demographics about a person. So, how old were they when they died? What was their stature? What was their ancestry? And what was their sex? And then we usually will compile all this information into a case report.
+
+Now, we can be actually asked to go to court, but court testimonies are quite rare. When I was a graduate student I was in my lab for 4 years. I think that of all the cases we were doing—we were doing about 30 to 40 a year—about only 2 actually went to court while I was there. So it can actually be quite minimal.
+
+Whether or not we do all of these responsibilities for a given case or just one of these responsibilities for a given case is really all up to the investigator and what that investigator needs. So, for example, if they already know who the person is based on context, or whatever, they feel confident, or it’s been DNA identified already, but maybe they recognize that there’s some skeletal trauma, but they want somebody to actually observe the trauma and describe it a little bit better, so in some cases we may be asked just to only do a trauma analysis; we won’t have to do anything else. Other times we could be asked just to come on the scene. That’s not our call to make. That’s actually the call of the investigator who’s actually running the case.
+
+There are actually 2 types of bone tissue in each bone. There is compact and spongy. Compact is the kind of bone that you traditionally think about as it being solid and dense with no gaps. As a material it’s very strong, it’s very resistant to forces, and it’s heavy. And this is exactly what we were looking at. When we were looking at that microstructure above, we were looking at the microstructure of compact bone, and you can see that those osteons are clustered very tightly together, and the only openings in this are the very microscopic canals that allow the small blood vessels to get through.
+Well, where do we find compact bone? We find that it forms the shaft—what’s also known as the diaphysis—for all long bones, and we also know that all external surfaces, the most external layer of bone on any of your skeletal elements is actually going to be compact bone.
+
+Now spongy bone, also known as cancellous or trabecular bone, we don’t find this. This is never going to be on an external surface. The external surface will always be compact bone. Spongy bone actually has a completely different microstructure. It doesn’t have these—this osteon unit, and it has lots of gaps. And these gaps are filled with different kinds of marrow. Okay? And this is actually the site of the hematopoiesis function. And when we find spongy bone, we know it’s—we now know that it’s internally placed, right? You won’t actually find it on any of the external surfaces. But in terms of where it’s located, we don’t see it in the shaft, like we do the compact bone; we actually see it on the ends of the long bones.
+
+We also see it in between 2 layers of compact bone in the cranium. So the outer surface of all your cranial bones, right, that make up your brain case, that’s compact bone, and then if you go in and what your brain is up against, that’s also compact bone. But sandwiched between those 2 layers, you’ll actually find spongy bone.
+
+In describing long bones, there’s 2 key regions that make up a long bone. There’s the shaft and there are the ends. The shaft of a long bone is called the diaphysis, and the diaphysis is made up solely of compact bone. And what’s interesting about the internal space of all your long bones is that they’re hollow. And they’re hollow because in this space is your medullary cavity. And this yellow—this medullary cavity actually is the site for your yellow marrow, or your fat production.
+
+The ends of your bones—called epiphysis—these are the space that have a spongy bone center and a compact bone outer surface, okay? And what we know is that these are on the ends of the bones. And we know that if it’s on the ends of the bones, these are going to be what creates the joints. So if you think about your knee, and you put your hand kind of covering that whole knee, where your femur and your tibia come together, those surfaces—that bone, right, at those ends of each of those long bones—is actually, majority of it is going to be this spongy bone covered by a little bit of compact. Typically they tend to be irregular in shape; none of the two ends of bone are alike, and that’s because they have to each be created to be a shape that serves the purpose of that unique joint—the function of that unique joint.
+
+In between all those little openings that we see in the spongy bone, instead of it being the production of yellow marrow that’s for fat, we actually see that-that the spongy bone actually contains red marrow. And red marrow is what’s going to actually help create red blood cells.
+
+Bone as a tissue is considered one of the hard tissues in our body. Some other examples are enamel, or dentin, which are both occupying your teeth. So what actually makes a living tissue of bone? So there’s different types of bones cells. You’ve already learned 1, osteocytes, and we’ve briefly discussed osteoblasts and osteoclasts. Here we’ll go into a little bit more depth on them and their relationship with bone development.
+
+Osteoblasts are bone-forming cells, so they actually create the organic and the inorganic components of the bone matrix itself. And when we talk about this as bone having organic and inorganic-type components, the inorganic would be things like calcium, magnesium, and phosphate ions, where the organic components largely are comprised of collagen, and it’s, in particular, type-I collagen is common in bone, unlike other types of collagen that we do find in the hair and the skin.
+
+So osteoblasts are quite active when we are laying down bone and during bone growth. As we mature and we no longer are growing, osteoblasts become less active.
+
+Osteoclasts, or bone-eating or reabsorbing cells, okay, these are the ones that actually break down bone. How do they do this? Well they actually secrete enzymes and acid that actually digest the bone tissue and break down the structural components of this. And this functionally can be used to reshape bone, so after an injury and you’re healing, a lot of times there’s a large bony mass that’s laid down, and the osteoclasts can be helping to reduce that and refine that to a nice, smooth bony tissue in the stages of healing.
+
+Well we can also see osteocytes working in our daily lives with the management of things like the calcium concentration in the bloodstream. So, osteoclasts are triggered to work when there’s a low level of calcium in the bloodstream; osteoclasts are stimulated and will break down the bony matrix to actually release the calcium. And when there’s a high level of calcium, or an excess of calcium, osteoblasts would be stimulated, while the osteoclasts would be suppressed, and this would allow osteoblasts, in order to make bone, they actually require calcium, so they’ll bring in calcium out of the bloodstream and put it into bone.
+
+Osteocytes are a little bit different. Osteocytes, you know, which we talked about in terms of they embed themselves inside that bony matrix, they’re actually mature osteoblasts, and they can’t move around, so they’re quite immobile, and they can’t convert back into osteoblasts once they are converted into osteocytes, so it’s a one-way street.
+
+And what they do is they actually maintain the bony matrix around it, so they make sure that the bone tissue itself is healthy, and they also serve a role in actually managing and detecting mechanical loads on bones. And what we mean by this is that if you are laying around for a really long time—let’s say you’re bedridden—your osteocytes are able to say, “Look. There’s no pressure or force being put on these bones,” and it actually, as a result, will regulate how much of your bone is laid down or taken away to manage the fact that it doesn’t need to be that responsive to force. But if you put a lot of force or it senses—the osteocytes sense lots of force being put on their bodes—so, for example, runners, then what the osteocytes is they trigger laying-down-more bone. So as your biomechanical stress increases or decreases throughout your life, or over smaller periods of time, your osteocytes trigger the activity or inactivity of osteoblasts and clasts.
+
+Ossification, also known as osteogenesis, is just the process of cells differentiating into osseous tissue, otherwise known as bone. And so what we mean by this is that from precursors of bone, the actual bone is formed. So we see osteoclast and osteoblast activity in these precursor tissues.
+
+When we learn about the word “osteo,” right—we’ve been referring to this earlier in the semester thinking about osteology—and so “osteo” means “bone,” right, and then “genesis” means “the creation,” so osteogenesis is the creation of bone.
+
+There are two kinds of templates for ossification to begin. In the fetus, you have both cartilage and fibrous templates/membranes that are eventually replaced by bone tissue. Bone tissue formation is one of the two, and the two are called endochondral ossification and intramembranous ossification.
+
+Endochondral ossification, if we think about this, “endo” means inside; “chondro” actually means cartilage, so this is ossification that begins, or generates, within cartilage templates. And this is exactly what we see, and those actual cartilage cells are replaced by bone cells, ultimately completely, to where the cartilage that we see in our bones is only found at the ends and the joint surfaces. And the majority of the bones actually are going to form through endochondral osteogenesis.
+
+Intramembranous ossification, or osteogenesis, is localized, and we see this in the majority of cases just in the cranium. Now, for example, if you think about a baby’s soft spots in their head, this is actually an area of the intramembranous template that has not actually ossified yet. So when you’re touching a soft spot on a baby’s head, you’re actually touching that fibrous template that eventually will be differentiated into bone.
+
+After the initial endochondral or intramembranous ossification events, this does continue, basically, our first skeleton is fully grown, which can be into early adulthood. But some of the key changes that we see between the sexes actually starts to pop up at puberty, and a lot of these are linked to the hormonal changes that occur at puberty. And the sex-specific changes, the majority of what we see is that we have an increase in the testosterone hormone in males, and what this does is this increases, actually, osteoblast activity and increases the amount of bone that is laid down, as well as increasing muscle density, and what this also does is this allows the bone to react and create larger muscle attachment sites, as well as overall increased bony activity and robusticity in male skeletons.
+
+So, essentially, until we get to puberty, the differences between males and females are quite limited when observing the skeleton.
+
+By approximately 32 years of age, your first skeleton is essentially complete. And what we know is that about every 10 years your entire skeleton is actually replaced by fresh new bone tissue. So your body, even though it takes this major event for the first 2 decades of your life, or almost 3 decades of your life, is contributing to the initial development of that skeleton, the replacement of those cartilage and fibrous templates; ultimately what we see is, then we have bone actually just replacing bone. Just like any of your other materials in your body, cells’ life is not going to be the length of a human life, and so those are actually have to be replaced quite often, and in the case of the skeleton, it takes 10 years to regenerate a completely new skeleton, and this will cycle throughout the rest of your life.
+
+How does bone develop on a macroscopic level? Well, a lot of the early changes and bone growth in life can be broken down into the growth phase. What we know is that the growth phase occurs from the fetus to early 30s, and that it occurs typically from the center out. So the center of those fibrous templates, or the center of those cartilaginous templates, is where the bone actually begins to differentiate, and it grows out from there.
+
+You can see in this image below, this is a schematic of bone starting in the center of a cartilage template of a long bone. We also see that as you continue to grow, the ends of the bone—remember the epiphysis—actually have epiphyseal plates, and these epiphyseal plates are the site for the cartilage that helps to initiate the laying down of bone. It’s these epiphyseal plates, or the cartilage growth plate, when these are removed and completely ossified, or converted into bone; this signifies the completion of the long bone. So, essentially, if your epiphyseal plate never closed, then you would continue growing forever.
+
+So, for example, some of you might have heard of something like gigantism. This is actually a disease where your epiphyseal plates don’t close, and you continue to grow or they have quite a delayed closure, so that’s why there’s such an increase in the overall body size.
+
+So, knowing that we have these changes throughout one’s growth and development, you can actually use these to age from bone growth. The rate of development of long bones and the epiphyseal growth plates will actually come back into play in this week’s lectures when we start to discuss age estimation.
+
+So what happens to our skeleton after it’s complete, or between the cycles of 10 year where it’s being replaced slowly? Well, beyond just trying to replace old bone tissue, there’s constant remodeling or repair happening. With all the mechanical forces that are put on our skeleton at any given time, bone is actually responding to these. Let’s look a little deeper into this in the next slide.
+
+Bone has a wide range of ongoing responses throughout one’s life, and if we think about bone as being dynamic from development in how it’s changing and growing to maintenance, in terms of how it’s always being sensitive, to the amount of concentration of minerals in the bloodstream and managing the structural changes as a result of those changes to the minerals, as well as breaking down, okay, over time. The osteoblast to the osteoblast ratio actually changes with age as well, so the functionality, or the activity level, of these different kinds of bone cells changes. Well, we know as we age, because osteoblast activity is stimulated by things like estrogen, when women go through menopause, there’s actually a strong decrease in osteoblast activity because estrogen regulates osteoblast activity. And this is where we see things like osteoporosis.
+
+And we also know, in addition to estrogen, osteoblast activity is actually regulated by those osteocytes. Recall we talked about the fact that osteocytes are actually sensitive to biomechanical pressures put on the skeletons. And so if we think about biomechanical pressures, what do we actually mean by this? I gave an example before about direct impact—things like running and jumping. You can feel the force going through your bodies, but actually the muscles themselves that we generate—remember, we talked about the fact that the muscles insert into your bones—and as a result, these put localized forces on the bones in the areas where they attach.
+
+Now, if you just bend your arm, right; if you just do a bicep curl and you have no weight there, that’s putting pretty minimal force on those muscle attachments between the 2 bones that the biceps muscle attaches to. But you can image if you’re a bodybuilder and you’re lifting hundreds of pounds, right, with that bicep, all the sudden the amount of force it takes to do that same exact bicep curl is going to be much stronger on those areas of bone. So the amount of bone that we have in response to force is very similar to muscle development. The more that we work our muscles, the larger our muscles get. The more force that we put on our bones, the thicker the bones themselves can actually get.
+
+If we reduced at any time—if we all decided we wanted to be bodybuilders and we actually increased it, severely increased the amount of force that we’re putting on our bodies through something like weight training or impact through something like running, we would see a clear difference in the amount of bone density, okay? And as a result, over time, these can also change and be reduced. In particular, age-related changes, as I mentioned previously, with the hormonal regulation of things like estrogen, this can actually change what happens in terms of osteoclast and osteoblast activity.
+
+One of the major problems with the menopause-associated reduced osteoblast activity level is the disease called osteoporosis. And we know that ultimately because the osteoblast activity decreases, we see a manifestation of an overall decline in the density of bone, and in that case, and associated with osteoporosis in this decreased density, we have an increased propensity for fractures. And this is most common in females. So that’s why you see—I’m sure you’ve seen many of the commercials on TV where they actually advertise things that can help with osteoporosis, and they’re usually targeting females.
+
+The vertebral column is actually a really common site for osteoporosis, and this has a lot to do with the fact that the vertebral bodies themselves are almost 100 percent comprised of the spongy, or that trabecular bone. And because of this, this makes some great shock absorbers, but it doesn’t actually make them very strong, and so when that thin layer on the outer surface that’s covering the vertebra of cortical bone is reduced severely by density, as well as the trabecular bone within, the actual integrity of the vertebral column itself is compromised, and what we see often is something like a wedge fracture or a vertebral body fracture as a result of post-menopausal osteoporosis.
+
+Now bone remodeling can also occur throughout one’s life, and this actually is going to occur out of the periosteum. And recall the periosteum is a site where the osteoclasts and the osteoblasts respond. And again, what we’ll see is that this is either resorption or deposition. So, happening at the periosteum, at that site, so the external-most portion of the bone on that cortical bone surface, is where we actually see these deposition, right, so the addition, or the depositing of bony tissue, or the resorption, or the removal of bony tissue, is occurring at the periosteum site.
+
+Bone deposition and bone resorption—we replace 10% of the skeletal tissue a year in response to something like bone resorption and bone deposition. Why? We need to have the bone grow and respond to stress and repair itself on a microfracture level or a microscale all the time. Because of the ever-changing and adaptive ability of this hard tissue known as bone, this becomes quite an exciting space to actually think about it in terms of forensic anthropology and the amount of human variation of the skeleton that we see. Now we’ll move forward and start to think about how, on a macroscale, bony variation can actually tell us things about things like age or sex.
+
+[SMRY]
+Decisions to be made… forensic pathologist or anthropologist? Depends on: State of decomposition, Knowledge of what anthropologists do, Anthropologist available.
+
+Anthropology: study of all aspects of human life
+4 main subdivisions: Archaeology, Linguistics, Cultural, and Biological.
+Biological Anthropology: Biological aspects of humans, human ancestors, and non-human primates. e.g. human and non-human primate evolution, skeletal variation, genetic variation, health, and disease 
+
+What is Forensic Anthropology?
+- A subfield of biological anthropology applied to legal matters
+- Uses the skeleton to make inferences
+- Relatively young science
+
+Formative period (1800s-1939)
+Thomas Dwight: founder of American forensic anthropology. Graduated from and taught at Harvard University during the 1870s. Trained anatomist, specialty was osteology
+(the study of bones: “osteo” = bones). 
+Famous Case: Harvard University. Physician and chemistry professor known to have animosity. Physician found dead, evidence of dismemberment and burning. Dwight asked to analyze the body. Reassembled body, used anatomy knowledge to estimate stature, sex, and age. Used dental evidence to make clear link to physician’s body
+
+Another early case of forensic anthropology: Sausage Case
+
+1897: Adolph & Louisa Leutgert , husband and wife, owned a sausage factory. Wife goes missing, no trace of body found. George A. Dorsey, anthropologist, asked to oversee the case. Suspected the husband of putting the body in a vat of potash in the factory. 4 pieces of bone survived. Identified the fragments as human hand, foot, and rib. Ring of Louisa also recovered in the vat. Application of osteology to confirm human remains present.
+
+The Consolidation Period 1939-1971
+Development of Central Identification Laboratory in Hawaii , as part of the Defense Prisoner of War/Missing in Action Accounting Agency (DPAA)
+
+Purpose: to find and identify bodies of missing WWII dead
+First Director: Charles Snow
+Formally developed methods for determining age, sex, and stature from the skeleton
+Skeletal remains of war dead served as samples to make these methods. First time large reference samples had been used to make methods for identifying unidentified bodies of medico-legal significance
+
+Modern Period 1939-1971
+
+American Academy of Forensic Science establishes Anthropology branch. Currently 557 national and international members (2013).
+
+1977:  American Board of Forensic Anthropology (ABFA) certification program
+Purpose: to test and recognize forensic anthropologists for their special qualifications in forensic anthropology and for meeting the standards set forth by the ABFA
+
+1986: Forensic Anthropology Data Bank, University of Tennessee at Knoxville: database of skeletal information from current forensic anthropology case work
+data used to create methods. Before this skeletal data came from 19th century skeletal collections. Not representative of the diversity present today. They needed a modern sample. 
+
+Today
+Replaced informal training with formal development and testing of methods using the scientific method. Integrate multiple “lines of evidence”. Unbiased methods-can be replicated regardless of background.
+
+What forensic anthropologists DON’T do: Conduct criminal investigations, Decide if should be a part of an investigation, Determine cause, mechanism, and manner of death, Analyze non-skeletal evidence, Communicate/interact with families of victims (some exceptions–FAFG), Communicate/interact with suspects, Go to crime scene (typically outdoors, burials, etc.) (Rare), Use single lines of evidence to draw conclusions
+Solve crimes, Work in crime labs/private practices (Rare—why?), Work with other specialists (Rare), Know about the crime (creates analytical bias).
+
+Who do forensic anthropologists work for: University-based labs (Professors and grad students), Forensic work typically free or minimal charge, Relationship with county medical examiners/coroners (ME or coroners’ investigators request service), Organizations aiding with human rights and mass disasters eg. Haiti, Katrina, 9/11, Buffalo plan crash
+
+Forensic Anthropologists' Responsibilities: Scene recovery of human remains, Assess forensic significance, DNA sample extraction, Postmortem interval estimation, Minimum number of individuals, Trauma analysis, Biological profile, Court testimony, All depends on needs of investigator.
+
+2 Types of Bone Tissue: Compact & Spongy
+Compact (i.e., lamellar/cortical) bone: Dense, solid, no gaps, very strong, heavy, Made of many osteons clustered together
+Location: forms shaft (diaphysis) of long bone and is the external surface of all bones
+Spongy (i.e., cancellous/trabecular) bone: No osteons, many gaps filled with bone marrow, Not as strong (ability to withstand stress without breaking)
+Location: epiphysis (ends) of long bones and inner portion of all other bones
+
+2 Key Regions: Diaphysis and Epiphysis
+Diaphysis is the shaft and is made of compact bone: Medullary cavity contains yellow marrow (fat)
+Epiphysis is the ends of long bones, has both spongy and compact bone, The “joints” surfaces, Irregular in shape, depends on the joint, It’s spongy bone contains red marrow, which is the site of hematopoiesis.
+
+Types of Bone Cells
+Osteoblasts: Cells that form bone tissue
+
+Secrete the organic and inorganic components of bone
+Organic: Type-I collagen
+Inorganic: calcium, magnesium, and phosphate ions
+Osteoclasts: Bone “eating”/reabsorbing cells
+
+Secrete enzymes and acid that digest bone tissue
+Release the calcium into bloodstream
+Osteocytes: Mature osteoblasts, can’t mobilize
+
+Maintain the bone matrix
+Detect mechanical load on bones
+Release chemicals that regulate bone remodeling when loads increase or decrease
+
+Ossification/Osteogenesis: break it down:  osteo/oss = bone;   genesis = creation
+Progression of ossification in a fetus
+
+From conception to Week 6: No bone! Entire skeleton is fibrous membranes & cartilage “templates”.
+
+From Week 8 on:
+
+Process of osteogenesis begins
+osteo____(-clast OR -blast)? cells hard at work
+Cartilage and fibrous templates/membranes replaced with bone tissue
+Bone tissue formation is either endochondral versus intramembranous
+Endochondral:
+
+Break it down: endo= inside; chondro=cartilage
+Bone tissue forms within the cartilage template, replacing cartilage cells with bone cells
+Majority of bones form through endochondral osteogenesis
+Intramembranous:
+
+Bone tissue forms among the fibrous tissue membranes
+Fibrous tissue cells differentiate (change) into bone cells
+Bones of the cranium form via intramembranous ossification
+think about baby’s soft spots.
+
+At Puberty: Sex-specific changes, Testosterone/estrogen regulate bone cell activity.
+
+By approximately 32 years: First skeleton complete!
+
+Every 10 years: Your entire skeleton has been replaced by fresh new bone tissue
+
+Bony Changes Early in Life: Bone Growth
+Growth Phase: 
+Timeframe: fetus to early 30s
+Bone growth occurs from center out , Diaphysis towards epiphysis, Epiphyseal plates start closing after puberty.
+
+Estimating Age from Bone Growth: Bones complete when the epiphysis and diaphysis  fuse together, Can estimate age by observing the degree of bony fusion, How much cartilage converted to bone? X-rays used to see epiphyseal plates.
+
+What happens after our skeleton is completed? Osteogenesis is still happening!
+Needed for: Bone thickening, Bone remodeling and repair.
+
+Development --> Maintenance --> Breakdown
+Osteoblast to osteoclast ratio changes with age. Osteoblast activity is regulated osteocytes.
+
+Sensitive to biomechanical pressure on our skeleton What kinds of forces act on our bones?
+Example: Sedentary versus weight trainer
+Bone tissue is similar to muscle loss/gain
+
+Age-related changes: 
+Hormonal regulation of bony cell activity: osteoblast activity decreases in females at menopause, osteoblast activity increases in males at puberty
+Osteoporosis: decrease in the density of bone, more prone to fractures
+common in post-menopausal women 
+
+Bone remodeling: Resorption and Deposition
+Occurs under the periosteum in response to: Hormonal and mechanical stimuli
+Consists of and requires balance between: Bone deposition and Bone resorption
+
+Replaces 10% of skeletal tissue a year! Why? Bones grow, respond to stress, can repair themselves, play a role in calcium homeostasis.
