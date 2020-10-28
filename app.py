@@ -1,11 +1,16 @@
 from flask import Flask
 from flask import render_template
 from flask import request
+import datasets
+from transformers import pipeline
 
 app = Flask(__name__)
 
 def summarize(s): # make this an actual summarize function
-    return s[::2]
+    summarization = pipeline("summarization")
+    summary_text = summarization(s)[0]['summary_text']
+    return summary_text
+
 
 @app.route('/', methods = ["GET", "POST"]) #
 def index():
