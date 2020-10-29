@@ -3,7 +3,7 @@
 	<title>LCTRS</title>
   <meta name="author" content="Nathan Borror">
   <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css">
-  <link rel="stylesheet" href= "style.css">
+  <link rel="stylesheet" href= "{{ url_for('static',filename='styles/style.css') }}">
 </head>
 <body>
 
@@ -18,7 +18,7 @@
         <fieldset>
             <label>Transcript:</label>
             <div class = "full-width"></div>
-            <textarea name="transcript" rows="20" cols="100" placeholder="Enter lecture summary here!"></textarea> 
+            <textarea name="transcript" rows="20" class="input" placeholder="Enter lecture summary here!"></textarea>
             <div class = "full-width"></div>
             <div class = "summarizebtn">
               <button type="submit" name="submit" class="pure-button pure-button-primary">Summarize</button>

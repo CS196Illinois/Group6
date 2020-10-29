@@ -8,8 +8,8 @@
     padding-top: .75rem;
 }
 .wrapper {
-    padding-left: 1.0rem;
-    padding-right: 1.0rem;
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
 }   
 .subtitle {
     display: block;
@@ -25,10 +25,14 @@ h4 {
     margin-bottom: 0.1rem;
 }
 .summarizebtn {
-    width:15%;
+    width: fit-content;
     margin:0.5em auto;
 }
 .summary {
     width:100%;
     padding:1.0rem;
+}
+
+.input {
+    width: 100%;
 }
