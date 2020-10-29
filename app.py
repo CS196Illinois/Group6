@@ -1,11 +1,15 @@
 from flask import Flask
 from flask import render_template
 from flask import request
+import datasets
+import transformers
 
 app = Flask(__name__)
 
 def summarize(s): # make this an actual summarize function
-    return s[::2]
+    summarizer = transformers.pipeline("summarization", model = "t5-small")
+    output = summarizer(s, min_length=20, max_length=100) 
+    return output[0]['summary_text']
 
 @app.route('/', methods = ["GET", "POST"]) #
 def index():
