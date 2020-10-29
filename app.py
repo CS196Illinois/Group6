@@ -21,7 +21,7 @@ def index():
         data = request.form['transcript']
         length= int(request.form['length'])
         print(length)
-        return render_template(r'index.html', data=summarize(str(data), length), prefill=data)
+        return render_template(r'index.html', data=summarize(str(data), length), prefill=data, size=length)
         # return text from the webpage
 
 
