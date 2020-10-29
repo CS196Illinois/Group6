@@ -18,7 +18,11 @@
         <fieldset>
             <label>Transcript:</label>
             <div class = "full-width"></div>
-            <textarea name="transcript" rows="20" class="input" placeholder="Enter lecture summary here!"></textarea>
+            <textarea name="transcript" rows="20" class="input" placeholder="Enter lecture summary here!">{{prefill}}</textarea>
+            <div class = "full-width"></div>
+            <div class = "summarizebtn">
+                Summarize to <input id="length" name="length" type="number" value="25">%
+            </div>
             <div class = "full-width"></div>
             <div class = "summarizebtn">
               <button type="submit" name="submit" class="pure-button pure-button-primary">Summarize</button>
