@@ -1,33 +1,34 @@
 <html lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title>LCTRS</title>
-	<meta name="author" content="Nathan Borror">
+  <meta name="author" content="Nathan Borror">
+  <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css">
+  <link rel="stylesheet" href= "style.css">
 </head>
 <body>
 
 <div id="page">
   <div id="body" class="wrapper">
     <div id="introduction">
-      <h2>LCTRS</h2>
-      <form action="." method="post" class="hform">
+      <div class="title">
+        <h2>LCTRS</h2>
+          <span class="subtitle">Lecture Summarizer</span>
+      </div>
+      <form action="." method="post" class="pure-form pure-form-aligned">
         <fieldset>
-          <legend>Lecture Summarizer</legend>
-          <p><label>Transcript:</label>
-            <textarea name="transcript" rows="20" cols="100"></textarea></p>
+            <label>Transcript:</label>
+            <div class = "full-width"></div>
+            <textarea name="transcript" rows="20" cols="100" placeholder="Enter lecture summary here!"></textarea> 
+            <div class = "full-width"></div>
+            <div class = "summarizebtn">
+              <button type="submit" name="submit" class="pure-button pure-button-primary">Summarize</button>
+            </div>
         </fieldset>
-        <p><input type="submit" name="submit" value="Summarize" class="button"></p>
       </form>
-
-
-
     </div>
-
   </div>
 
-<p class="summary"> {{data}} </p>
+<div class="summary"> {{data}} </div>
 </div>
-
-
-
-
-</body></html>
+</body>
+</html>
