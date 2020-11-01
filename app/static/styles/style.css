@@ -1,0 +1,38 @@
+.full-width {
+    width:100%;
+}
+.title {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    padding-top: .75rem;
+}
+.wrapper {
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+}   
+.subtitle {
+    display: block;
+    font-size: 1em;
+    margin-top: -1.0em;
+    margin-bottom: 1.33em;
+    margin-left: 0;
+    margin-right: 0;
+    font-style: italic;
+    color: #606060;
+  }
+h4 {
+    margin-bottom: 0.1rem;
+}
+.summarizebtn {
+    width: fit-content;
+    margin:0.5em auto;
+}
+.summary {
+    width:100%;
+    padding:1.0rem;
+}
+
+.input {
+    width: 100%;
+}
