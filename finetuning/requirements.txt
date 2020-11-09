@@ -1,6 +1,7 @@
 tensorboard
 transformers
 scikit-learn
+pyarrow
 seqeval
 psutil
 sacrebleu
