@@ -42,6 +42,8 @@ h4 {
 .google-btn {
   width: 184px;
   height: 42px;
+  margin-left: 82%;
+  margin-top: 1.5%;
   background-color: #4285f4;
   border-radius: 2px;
   box-shadow: 0 3px 4px 0 rgba(0, 0, 0, 0.25);
@@ -57,6 +59,7 @@ h4 {
 .google-btn .google-icon {
   position: relative;
   margin-top: 8px;
+  margin-left: 7px;
   width: 24px;
   height: 24px;
 }
