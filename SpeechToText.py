@@ -3,6 +3,18 @@
 Created on Sun Nov  8 22:39:27 2020
 
 @author: jmalc
+inputs: 
+    file - audio file to be transcribed
+    length - the number of seconds of the audio file to be transcribed
+    start - the starting second of recording
+params:
+    speech - the audiofile
+    recog - an instance of a Recognizer() created for recognition functionality
+    audio - uses the .record method to record the audio file for use
+prints:
+    .recognize_google() - takes the recording and uses the Google Speech 
+        Recognition API to transcribe into text (can use other APIs)
+    "unclear audio" - if .recognize_google() fails, tell the user
 """
 import speech_recognition as sr
 
