@@ -123,7 +123,7 @@ def callback():
         User.create(unique_id, users_name, users_email, picture)
     # Begin user session by logging the user in
     login_user(user)
-    # Send user back to homepage
+    # Send user to userpage
     return redirect(url_for("index"))
 
 #Logout
@@ -150,7 +150,7 @@ def index():
     if request.method == 'GET':
         #Login Functionality
         if current_user.is_authenticated:
-            return render_template(r'index.html', data="", prefill="", login="You're logged in! Welcome Back, " + current_user.name)
+            return render_template(r'userpage.html', data="", prefill="", login="You're logged in! Welcome Back, " + current_user.name, profilepic=current_user.profile_pic)
         else:
             return render_template(r'index.html', data="", prefill="", login='')
     else:

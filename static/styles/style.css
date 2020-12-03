@@ -1,8 +1,14 @@
+.html {
+  overflow-x: hidden;
+}
+.body {
+  overflow-x: hidden;
+}
 .full-width {
     width:100%;
 }
 .title {
-    width: 100%;
+    width: 50%;
     margin: auto;
     text-align: center;
     padding-top: .75rem;
@@ -37,13 +43,16 @@ h4 {
     width: 100%;
     background-color: whitesmoke;
 }
-.size {
+.btncontainer {
+  position: absolute;
+  width: 200px;
+  height: 50px;
+  margin-left: 82%;
+  padding-top: 2%;
 }
 .google-btn {
   width: 184px;
   height: 42px;
-  margin-left: 82%;
-  margin-top: 1.5%;
   background-color: #4285f4;
   border-radius: 2px;
   box-shadow: 0 3px 4px 0 rgba(0, 0, 0, 0.25);
@@ -59,7 +68,7 @@ h4 {
 .google-btn .google-icon {
   position: relative;
   margin-top: 8px;
-  margin-left: 7px;
+  margin-left: 8px;
   width: 24px;
   height: 24px;
 }
@@ -76,4 +85,52 @@ h4 {
 }
 .google-btn:active {
   background: #1669f2;
+}
+@import url(https://fonts.googleapis.com/css?family=Oswald:400);
+.navigation {
+  position: absolute;
+  width: 10%;
+  padding-bottom: 1%;
+  padding-left: 88%;
+}
+img {
+  width: 35px;
+  border-radius: 50px;
+  float: left;
+}
+.logout {
+  font-size: .7em;
+  font-family: 'Oswald', sans-serif;
+	position: relative;
+  right: -7px;
+  bottom: -11px;
+  overflow: hidden;
+  letter-spacing: 3px;
+  opacity: 0;
+  transition: opacity .45s;
+  -webkit-transition: opacity .35s;
+  
+}
+.button {
+	text-decoration: none;
+	float: right;
+  padding: 12px;
+  margin: 30px;
+  color: rgb(255, 255, 255);
+  width: 35px;
+  height: 35px;
+  background-color: rgb(160, 159, 159);
+  transition: width .35s;
+  -webkit-transition: width .35s;
+  overflow: hidden;
+  border-radius: 7px;
+}
+a:hover {
+  width: 100px;
+}
+a:hover .logout{
+  opacity: .9;
+}
+a {
+  text-decoration: none;
 }
