@@ -10,6 +10,7 @@ Now for the Structuralists, as we see in slide five, there were some things that
 
 Number two, the mind is passive. That is, when one thought comes, it is followed by another thought, and on and on and on. As we can see here, this is the classic model of Associationism that we talked about in earlier sections.
 
+[TEXT]
 Number three, the structuralists believed that you could break down complex thoughts into very simple thoughts and study these. In essence, each thought was the sum of the other thoughts. That is, all the other thoughts that you had in your system. Finally they were empiricists. That is, they gathered information by observation and recording.
 
 Now what was the problem with the Structuralist school? The classic thing that we see here is starting on slide six. Let’s take the concept of love. What I’d like you to do is stop the slide here for a minute and break down the concept of love. What is love? Break it down into its elementary elements. After you do that, then restart the material.
@@ -41,6 +42,7 @@ Carbonated water, high fructose corn syrup and/or sucrose, caramel color, phosph
 
 Now if you might think about that, a lot of things come to mind. However, if we could add one more word to the product , “Rum” what do come up with? Well, the first thing is that it’s a Coke. And when you say Coke, there is a perception that you develop. When you put rum with that, a rum and Coke, you develop a perception or a thought about what a rum and Coke is. However, if you put something different to that, such as a rum and Pepsi, it’s just not quite the same. It’s a little different from the idea that you have of a rum and Pepsi. A rum and Coke is totally different. And if you have consumed both products and tested them side by side, you will know what I’m talking about.
 
+[TEXT]
 So, as a school, the Gestalt School did not have much impact at it’s time, but it had major influences in other areas that will be used by other psychology areas later in the future.
 
 [SUMM]
@@ -99,6 +101,7 @@ As we said before, and as we see in slide 29, most of the information processing
 
 This area of psychology has made major impacts in how the mind works. For example, we understand what’s going on within the system such as how much work that you can do, how much your mind can do before it collapses, or before you begin making mistakes. As a result, this area has made major contributions in industry and design. The classic example is an airplane cockpit where the pilot has to a wide variety of different things. If you make the pilot do too many things at one time, then the pilot makes mistakes. So what you have to do is break down tasks in the hierarchy, or you have a co-pilot in the system, or you develop a computer to take care of some of the tasks of the flight while the pilot is flying the plane.
 
+[TEXT]
 So in essence, these major schools of psychology are what we’re going to begin talking about. Not primarily within the Structuralist model or the Gestalt models, but within some of the more traditional learning models. We will continue from the late 1800s through the present, These areas are really what made psychology develop into what it is today.
 
 So the next time when we get together, we’ll begin talking about an early model of psychology. That will be classical conditioning. So until that time, you have yourself a good day and we will see you soon.
@@ -124,9 +127,6 @@ Cognitive models focus on what is going on inside the organism. There are four v
 [SEP]
 
 [TEXT]
-	
-Back	 
-Transcript of Audio Lecture
 In the last sections we have examined a wide variety of aspects related to classical and operant, and instrumental conditioning. In this section we begin talking about the last major and the current model of learning that is pretty much used by a lot of people today. These are called cognitive models. So, let’s begin by looking at some of the theorists of cognition which is shown on slide two. As you can see, a lot of the theorists of cognitive psychology relate all the way back to Plato. They include people like Tollman, Hull, and a variety of other people such as Anderson.
 In the last sections that we’ve talked about within instrumental and operant conditioning, we talked about some kind of stimulus causing some kind of response. And then following the response by some consequent stimulus. It depended upon the particular approach that one took whether one focused on the initial stimuli or the consequent stimuli following a response.
 
