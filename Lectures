@@ -1,4 +1,6 @@
-Video 1:
+
+
+Transcript: Video 1:
 —Hermann Weyl
 The fundamental, root-of-it-all building block for linear algebra is the vector, so it's
 worth
@@ -58,6 +60,13 @@ Now while I'm sure that many of you are familiar with this coordinate system, it
 through explicitly, since this is where all of the important back-and-forth happens between
 the two
 perspectives of linear algebra.
+
+Summary: 
+While a Physics student sees a vector as an arrow in space having two qualities (magnitude and direction), a computer science student sees a vector as an ordered list.
+Example: Modeling Houses: if we were to model houses using their square footage and price, we would use a 2 dimensional vector since there are 2 types of data (order matters). 
+However, the broader mathematical perspective is that vectors are defined by their operations of vector addition and scalar multiplication. 
+For linear algebra, it helps to view any vector as an arrow sitting on the origin of the coordinate system (not freely like the physics perspective).
+
 Focusing our attention on two dimensions for the moment, you have a
 horizontal line, called the x-axis, and a vertical line, called the y-axis.
 The place where they
@@ -108,6 +117,11 @@ the tip of the second one now sits, that new vector is their sum.
 This definition of addition, by the way, is pretty much the only time in linear algebra
 where we let
 vectors stray away from the origin.
+
+Summary: How far a vector goes in each dimension is given by the number of tick marks it crosses in that direction. For 3D, it is essentially the same process with a Z dimension. 
+Vector addition: if we put two vectors together such that the tail of one is placed on the tip of the other, their sum is given by the vector going from the first vectors tail to the second vectors tip. 
+
+
 Now why is this a reasonable thing to do?—Why this definition of addition and not some other
 one?
 Well the way I like to think about it is that each vector represents a certain movement—a
@@ -161,6 +175,10 @@ multiplying each of its components by that factor, 2, so in the conception of ve
 as
 lists of numbers, multiplying a given vector by a scalar means multiplying each one of
 those components by that scalar.
+Summary: Scalar Multiplication/Scaling: When a vector is multiplied by a number (scalar) stretches or compresses its magnitude by the scalar, and when the scalar is negative, the vector is flipped across the origin as well. 
+The essence of linear algebra is that we can freely move between the geometric interpretation of vectors and the data-based interpretation. 
+
+
 You'll see in the following videos what I mean when I say that linear algebra topics
 tend to revolve
 around these two fundamental operations: vector addition, and scalar multiplication; and I'll
@@ -192,14 +210,11 @@ understanding.
 So there are your vector basics, and in the next video I'll start getting into some pretty
 neat
 concepts surrounding vectors, like span, bases, and linear dependence.
-See you then!
-Captioned by Navjivan Pal
- 
- 
- 
- 
-Video 2:
- 
+Summary: The essence of linear algebra is that we can freely move between the geometric interpretation of vectors and the data-based interpretation. 
+It is the language that lets us talk about changes to large amounts of data and space, while having nice geometric analogies.
+
+
+Transcript 2:
 In the last video, along with the ideas of vector addition and scalar multiplication,
 I described vector coordinates,
 where's this back and forth between, for example, pairs of numbers and two-dimensional vectors.
@@ -247,6 +262,15 @@ different coordinate systems, but for right now, I just want you to appreciate t
 that
 any time we describe vectors numerically, it depends on an implicit choice of what basis
 vectors we're using.
+
+Summary:
+While we started off by thinking of vectors as a number of steps in each direction of the x-y plane, there is another way to interpret a vector’s coordinates: we can view each coordinate as a scalar. 
+Usually, we think of these scalars as scaling the two fundamental vectors of the x-y plan, known as i-hat and j-hat. I-hat points 1 in the x direction, and j-hat points 1 in the y direction. 
+The vector that is described by the pair of coordinates can be thought of as the some of two scaled vectors, and in this case those vectors are i-hat and j-hat. I-hat and j-hat are called the basis vectors of the xy coordinate system, but they are not the only basis vectors we could choose.
+ If we choose a new set of basis, such as one vector pointing up and to the right and one pointing down and to the right, how many vectors can we describe as the sum of scaled versions of those vectors? We can describe every two-dimensional vector. 
+
+
+
 So any time that you're scaling two vectors and adding them like this,
 it's called a linear combination of those two vectors.
 Where does this word "linear" come from?
@@ -294,6 +318,13 @@ leaving the arrows out of it.
 In general, if you're thinking about a vector on its own, think of it as an arrow,
 and if you're dealing with a collection of vectors, it's convenient to think of them
 all as points.
+
+Summary:If we choose a new set of basis, such as one vector pointing up and to the right and one pointing down and to the right, how many vectors can we describe as the sum of scaled versions of those vectors? We can describe every two-dimensional vector. 
+Whenever we make a vector by adding two scaled vectors, we call the result a linear combination of the two vectors. One way to relate this to the concept of lines is that if you fix one of the scalars and allow the other to move, the path drawn out by the tip of the second vector is a line. 
+There are three cases for how the linear combinations of our basis can look. One, which is the most common, is that our vectors draw out the whole xy plane. The second is that our basis vectors point in the same (or completely opposite) directions, in which case they would draw out a line through the two vectors. 
+Finally, if both of our vectors are zero, we would just have a point at the origin. Span: The set of all vectors we can reach with the linear combination of two vectors. Span is connected to the two fundamental vector operations;
+
+
 So, for our span example, the span of most pairs of vectors ends up being
 the entire infinite sheet of two-dimensional space,
 but if they line up, their span is just a line.
@@ -338,6 +369,11 @@ or the case where two vectors happen to line up,
 we want some terminology to describe the fact that
 at least one of these vectors
 is redundant—not adding anything to our span.
+Summary: 
+In the three dimensional space the span of two vectors tends to trace out a sheet that slices through the origin. However, we can add a third vector in the same way, by adding that vector multiplied by an arbitrary scalar to our linear combination. 
+A couple things can happen with a third vector. If the third vector happens to accidentally fall on the span on the first two, nothing changes. However, if the third vector is not on the span of the first two, the span will trace out all of 3D space. Linearly dependent: when a vector doesn’t add anything to the span, because it already sits on the span of the combination. 
+
+
 Whenever this happens, where you have multiple vectors and you could remove one without reducing
 the span,
 the relevant terminology is to say that they are
@@ -354,11 +390,12 @@ Now, given how I described a basis earlier,
 and given your current understanding of the words "span" and "linearly independent",
 think about why this definition would make sense.
 In the next video, I'll get into matrices and transforming space.
-See you then!
 
-Video 3:
+Summary: Linearly independent: when a vector doesn’t sit on the span of the previous vectors, thereby adding something to the span of the vectors. Technical definition of basis of a space: a set of linearly independent vectors that span the full space. Using what we’ve learned, why does this definition make sense?
 
-As you can probably tell by now, the bulk of this series is on understanding matrix
+
+
+Transcript 3: As you can probably tell by now, the bulk of this series is on understanding matrix
 and vector operations
 through that more visual lens of linear transformations.
 This video is no exception, describing the concepts of inverse matrices,
@@ -404,10 +441,16 @@ denote the vector holding the variables with a boldface x,
 and call the constant vector on the right-hand side v.
 This is more than just a notational trick to get our system of equations written on
 one line.
-It sheds light on a pretty cool geometric interpretation for the problem.
+It sheds light on pretty cool geometric interpretation for the problem.
 The matrix A corresponds with some linear transformation, so solving Ax = v
 means we're looking for a vector x which, after applying the transformation, lands on
-v.
+V.
+Summary: Traditionally when we write a system, we line the variables up, multiplied by their respective scalars, and put the lingering constant on the right.
+ When written like this, we can visualize the linear system as a matrix multiplication equation: 
+we have a matrix containing the coefficients on the left multiplied by a vector containing the variables, and then we have a constant vector on the right.
+ We can think of A as a transformation, and the equations describes searching for a vector, x, which when transformed using A, gives us v.
+
+
 Think about what's happening here for a moment.
 You can hold in your head this really complicated idea of multiple variables all intermingling
 with each other
@@ -456,6 +499,12 @@ This nonzero determinant case, which for a random choice of matrix is by far the
 likely one,
 corresponds with the idea that if you have two unknowns and two equations,
 it's almost certainly the case that there's a single, unique solution.
+Summary:
+In the later case, there will be exactly one vector x that solves the equation. The way we find this vector is by taking the solution vector and applying the transformation in reverse,
+ denoted by a matrix known as the inverse of A. Example: if A is a counterclockwise rotation of 90 degrees, A inverse is a clockwise rotation of 90 degrees.
+ The core property of this inverse matrix is that if you apply A inverse to A we get the matrix that corresponds to doing nothing, which is called the identity transformation.
+
+
 This idea also makes sense in higher dimensions,
 when the number of equations equals the number of unknowns.
 Again, the system of equations can be translated to the geometric interpretation
@@ -504,6 +553,16 @@ But for 3x3 matrices, rank 2 means that we've collapsed,
 but not as much as they would have collapsed for a rank 1 situation.
 If a 3D transformation has a nonzero determinant, and its output fills all of 3D space,
 it has a rank of 3.
+
+Summary:
+This algorithm extends to matrices in higher dimensions: as long as the determinant of A is non-zero, there will be a matrix A inverse, and to solve for the variables we just have to multiply the solution vector by the inverse transformation matrix.
+ However, if the determinant is zero, meaning that the transformation given by A squishes space into a lower dimension, there is no function that can un-squish a line.
+ To do this, the function would have to transform each vector into a full line of vectors, which is impossible for a function because they can only map a single input to a single output.
+ However, a solution can still exist if the determinant is 0: if space is squished onto a line with the transformation, for there to be a solution, the solution has to be on that line.
+ Some cases are more restrictive than others; for instance, squishing space onto a line or point is much more restrictive than squishing it onto a plane.
+ We can describe the level of squishing in the zero determinant cases with the term “rank.” Rank: the number of dimensions in the output of a transformation.
+ In the 2x2 case, rank 2 is the best scenario, but for the three dimensional case, rank 2 would mean that we’ve condensed space into a smaller dimension.
+
 This set of all possible outputs for your matrix,
 whether it's a line, a plane, 3D space, whatever,
 is called the "column space" of your matrix.
@@ -551,9 +610,11 @@ But the goal here is not to try to teach everything;
 it's that you come away with a strong intuition for inverse matrices, column
 space, and null space,
 and that those intuitions make any future learning that you do more fruitful.
-Next video, by popular request, will be a brief footnote about nonsquare matrices.
-Then, after that, I'm going to give you my take on dot products,
-and something pretty cool that happens when you view them
-under the light of linear transformations.
-See you then!
+
+Summary:In the 2x2 case, rank 2 is the best scenario, but for the three dimensional case, rank 2 would mean that we’ve condensed space into a smaller dimension.
+ Column Space: the set of all possible outputs for the Matrix multiplication, also is the span of the columns of the matrix. When the rank is equal to the number of columns, it is called full rank.
+ In a full tank transformation, the only vector that lands on the origin is the zero vector, but that isn’t the case for all transformations.
+ For instance, when the transformation squishes 2D space into a line, there is an entire line of vectors that is compressed to the origin rather than just one.
+ Null Space: the set of vectors that lands on the origin with a transformation, also known as the Kernel. 
+
 
