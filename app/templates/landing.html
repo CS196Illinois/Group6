@@ -1,15 +1,17 @@
 <!doctype html>
-<link rel="stylesheet" href="landingStyle.css">
+<link rel="stylesheet" href= "{{ url_for('static',filename='styles/landingStyle.css') }}"/>
 <html lang="en">
 
+<body>
 <div class="splash-container">
-    <div class="splash">
-        <button type="button"; style = "position:relative; left:620px; top:-200px; background-color:#75A0F0;">Login</button>
-        <h1 class="splash-head">lctrs</h1>
-        <p class="splash-subhead">
-            Text Summarizer
-        </p>
-    </div>
+    <a href="/summarize">
+        <div class="splash" href ="/summarize">
+            <h1 class="splash-head">lctrs</h1>
+            <p class="splash-subhead">
+                Text Summarizer
+            </p>
+        </div>
+    </a>
 </div>
 
 <div class="content-wrapper">
