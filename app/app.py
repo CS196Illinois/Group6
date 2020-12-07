@@ -124,14 +124,14 @@ def callback():
     # Begin user session by logging the user in
     login_user(user)
     # Send user to userpage
-    return redirect(url_for("index"))
+    return redirect(url_for("indexSummary"))
 
 #Logout
 @app.route("/logout")
 @login_required
 def logout():
     logout_user()
-    return redirect(url_for("index"))
+    return redirect(url_for("indexSummary"))
 
 # Flask-Login helper to retrieve a user from our db
 @login_manager.user_loader
@@ -145,8 +145,8 @@ def summarize(s, length_percentage): # make this an actual summarize function
     output = summarizer(s, min_length = 1, max_length = int(len_of_data*length_percentage/100))
     return output[0]['summary_text']
 
-@app.route('/', methods = ["GET", "POST"])
-def index():
+@app.route('/summarize', methods = ["GET", "POST"])
+def indexSummary():
     if request.method == 'GET':
         #Login Functionality
         if current_user.is_authenticated:
@@ -161,10 +161,10 @@ def index():
         return render_template(r'index.html', data=summarize(str(data), length), prefill=data)
         # return text from the webpage
 
-##@app.route('/', methods = ["GET"])
-##def index():
-    ##if request.method == 'GET':
-        ##return render_template(r'landing.html')
+@app.route('/', methods = ["GET"])
+def index():
+    if request.method == 'GET':
+        return render_template(r'landing.html')
 
 if __name__ == "__main__":
     app.run(ssl_context="adhoc")
