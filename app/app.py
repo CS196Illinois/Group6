@@ -12,8 +12,8 @@ def summarize(s, length_percentage): # make this an actual summarize function
     output = summarizer(s, min_length = 1, max_length = int(len_of_data*length_percentage/100))
     return output[0]['summary_text']
 
-@app.route('/', methods = ["GET", "POST"]) #
-def index():
+@app.route('/summarize', methods = ["GET", "POST"])
+def summarization():
     if request.method == 'GET':
         return render_template(r'index.html', data="", prefill="")
     else:
@@ -24,6 +24,10 @@ def index():
         return render_template(r'index.html', data=summarize(str(data), length), prefill=data)
         # return text from the webpage
 
+@app.route('/') #
+def index():
+    if request.method == 'GET':
+        return render_template(r'landing.html')
 
 
 
