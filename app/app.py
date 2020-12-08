@@ -154,17 +154,24 @@ def indexSummary():
         else:
             return render_template(r'index.html', data="", prefill="", login='')
     else:
-        print(request, " - - Get Request detected")
+        print(request, " - - Post Request detected")
         data = request.form['transcript']
         length= int(request.form['length'])
         print(length)
         return render_template(r'index.html', data=summarize(str(data), length), prefill=data)
         # return text from the webpage
 
-@app.route('/', methods = ["GET"])
+@app.route('/', methods = ["GET", "POST"])
 def index():
     if request.method == 'GET':
         return render_template(r'landing.html')
+    else:
+        print(request, " - - Post Request detected")
+        data = request.form['transcript']
+        length= int(request.form['length'])
+        print(length)
+        return render_template(r'index.html', data=summarize(str(data), length), prefill=data)
+        # return text from the webpage
 
 @app.route('/login/dashboard')
 def loadDashboard():
