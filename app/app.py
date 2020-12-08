@@ -1,6 +1,6 @@
-from flask import Flask
-from flask import render_template
-from flask import request
+from Flask import Flask
+from Flask import render_template
+from Flask import request
 import datasets
 import transformers
 # Python standard libraries
@@ -9,7 +9,7 @@ import os
 import sqlite3
 
 # Third-party libraries
-from flask import Flask, redirect, request, url_for
+from Flask import Flask, redirect, request, url_for
 from flask_login import (
     LoginManager,
     current_user,
