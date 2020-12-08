@@ -168,3 +168,7 @@ def index():
 
 if __name__ == "__main__":
     app.run(ssl_context="adhoc")
+    ##lectures and summaries need to be pulled
+@app.route('/login/dashboard)')
+def loadDashboard():
+    return render_template(r'dashboard.html',username=current_user.name , lectures="", summaries="")
