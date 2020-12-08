@@ -1,6 +1,6 @@
-from Flask import Flask
-from Flask import render_template
-from Flask import request
+from flask import Flask
+from flask import render_template
+from flask import request
 import datasets
 import transformers
 # Python standard libraries
@@ -9,7 +9,7 @@ import os
 import sqlite3
 
 # Third-party libraries
-from Flask import Flask, redirect, request, url_for
+from flask import Flask, redirect, request, url_for
 from flask_login import (
     LoginManager,
     current_user,
@@ -166,9 +166,11 @@ def index():
     if request.method == 'GET':
         return render_template(r'landing.html')
 
+@app.route('/login/dashboard')
+def loadDashboard():
+    return render_template(r'dashboard.html',username="" , lectures="", summaries="")
+
+
 if __name__ == "__main__":
     app.run(ssl_context="adhoc")
     ##lectures and summaries need to be pulled
-@app.route('/login/dashboard)')
-def loadDashboard():
-    return render_template(r'dashboard.html',username=current_user.name , lectures="", summaries="")
