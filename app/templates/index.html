@@ -4,31 +4,60 @@
   <meta name="author" content="Nathan Borror">
   <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css">
   <link rel="stylesheet" href= "{{ url_for('static',filename='styles/style.css') }}">
+  <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/grids-responsive-min.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css">
 </head>
 <body>
 
 <div id="page">
-  <div id="body" class="wrapper">
+  <div id="body" class="wrapper" style="background-color:white">
     <div id="introduction">
       <div class="title">
-        <h2>LCTRS</h2>
-          <span class="subtitle">Lecture Summarizer</span>
+        <img src="/Users/rohansathe/lectures_main/Group6/Group6/app/templates/plswork.jpg"/>
+        <!--h2>LCTRS</h2-->
+        <!--This is an example text that won't be displayed in the browser-->
+        <h1 class="ui header"; style="background: coral; box-sizing: border-box; outline-width: 40mm; outline-color: black; font-size: 35pt; font-weight: bolder; outline-color: black;">LCTRS</h1>
+          <span class="subtitle"; style="background-color:  rgb(117, 160, 240); font-weight: bold; color: black; font-size: 15pt;">A UofI Lecture Summarizer</span>
+          <form class="pure-form-message">
+            <fieldset>
+              <legend style="font-size: 4vh; font-size: 4mm;color: black;">LCTRS is a great resource for efficient and effective lecture summarization.</legend>
       </div>
       <form action="." method="post" class="pure-form pure-form-aligned">
         <fieldset>
-            <label>Transcript:</label>
-            <div class = "full-width"></div>
-            <textarea name="transcript" rows="20" class="input" placeholder="Enter lecture summary here!">{{prefill}}</textarea>
+            <label style="border: black; border-radius: 8pt; font-size: 12pt;">Transcript:</label>
+            <div class = "full-width"></div> 
+            <textarea name="transcript" rows="20" class="input" placeholder="Please enter lecture summary here!" >{{prefill}}</textarea>
             <div class = "full-width"></div>
             <div class = "summarizebtn">
                 Summarize to <input id="length" name="length" type="number" value="25">%
             </div>
             <div class = "full-width"></div>
             <div class = "summarizebtn">
-              <button type="submit" name="submit" class="pure-button pure-button-primary">Summarize</button>
+              <button type="submit" name="submit" class="pure-button pure-button-primary" style="color: rgb(117, 160, 240);">Summarize</button>
             </div>
         </fieldset>
       </form>
+      <form class="pure-form pure-form-stacked">
+        <fieldset>
+            <legend>SIGN IN</legend>
+            <label for="stacked-email">Email</label>
+            <input type="email" id="stacked-email" placeholder="Email" />
+            <span class="pure-form-message">This is a required field.</span>
+            <label for="stacked-password">Password</label>
+            <input type="password" id="stacked-password" placeholder="Password" />
+            <label for="stacked-state">College</label>
+            <select id="stacked-state">
+                <option>University of Illinois</option>
+                <option>University of WHO CARES</option>
+                <option>NO OTHER UNIVERSITY MATTERS BUT UofI</option>
+            </select>
+            <label for="stacked-remember" class="pure-checkbox">
+                <input type="checkbox" id="stacked-remember" /> Remember me</label>
+            <button type="submit" class="pure-button pure-button-primary">Sign in</button>
+        </fieldset>
+    </form>
+        
+    </form>
     </div>
   </div>
 
