@@ -115,12 +115,12 @@ def callback():
 
     # by Google
     user = User(
-        id_=unique_id, name=users_name, email=users_email, profile_pic=picture
+        id_=unique_id, name=users_name, email=users_email, profile_pic=picture, transcripts="", summaries=""
     )
 
     # Doesn't exist? Add it to the database.
     if not User.get(unique_id):
-        User.create(unique_id, users_name, users_email, picture)
+        User.create(unique_id, users_name, users_email, picture, "No transcript", "No summary")
     # Begin user session by logging the user in
     login_user(user)
     # Send user to userpage
@@ -173,11 +173,10 @@ def index():
         return render_template(r'index.html', data=summarize(str(data), length), prefill=data)
         # return text from the webpage
 
-@app.route('/login/dashboard')
+@app.route('/login/dashboard/')
 def loadDashboard():
-    return render_template(r'dashboard.html',username="" , lectures="", summaries="")
+    return render_template(r'dashboard.html',username="" , lectures="", summaries="", profilepic=current_user.profile_pic)
 
 
 if __name__ == "__main__":
     app.run(ssl_context="adhoc")
-    ##lectures and summaries need to be pulled
