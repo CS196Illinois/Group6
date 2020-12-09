@@ -125,12 +125,12 @@ img {
   overflow: hidden;
   border-radius: 7px;
 }
-a:hover {
+.buttonProfile:hover {
   width: 125px;
 }
-a:hover .logout{
+.buttonProfile:hover .logout{
   opacity: .9;
 }
-a {
+.logout {
   text-decoration: none;
 }
