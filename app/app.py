@@ -24,6 +24,8 @@ import requests
 from db import init_db_command
 from user import User
 
+from summarization import Summarizer
+
 # Configuration
 GOOGLE_CLIENT_ID = os.environ.get("GOOGLE_CLIENT_ID", None)
 GOOGLE_CLIENT_SECRET = os.environ.get("GOOGLE_CLIENT_SECRET", None)
@@ -138,12 +140,13 @@ def logout():
 def load_user(user_id):
     return User.get(user_id)
 
-summarizer = transformers.pipeline("summarization", model = "t5-small")
+summarizer = Summarizer('t5-small')
 
 def summarize(s, length_percentage): # make this an actual summarize function
     len_of_data = len(s.split(" "))
-    output = summarizer(s, min_length = 1, max_length = int(len_of_data*length_percentage/100))
-    return output[0]['summary_text']
+    output = summarizer.summarize(s, int(len_of_data*length_percentage/100))
+
+    return output
 
 @app.route('/summarize', methods = ["GET", "POST"])
 def indexSummary():
