@@ -9,8 +9,8 @@ To run our project, you will need to install our finetuned language model. Sadly
 3. Store the model under the path <path_to_project_folder>/Group6/app/t5-small-finetuned/ 
 4. Navigate to this project folder.
 5. Run the following command in your terminal/command prompt:
-	a. Unix/MacOS: `python3 -m pip install -r requirements.txt`
-	b. Windows: `py -m pip install -r requirements.txt`
+	* Unix/MacOS: `python3 -m pip install -r requirements.txt`
+	* Windows: `py -m pip install -r requirements.txt`
 6. Run the following command in your terminal/command prompt: `python3 app/app.py`.
 7. Open a browser and go to your localhost site: `127.0.0.1`
 8. Congrats! You can summarize your lectures!
@@ -21,3 +21,5 @@ Unfortunately we ran out of time to implement the conversion of video files to a
 Feel free to play around with the `SpeechToText.py` file as well. 
 
 You will also need to limit the size of the chunks of text you wish to summarize. Our language model is only able to handle up to 1024 words at a time at the moment. You can summarize one section of each lecture at a time to overcome this. You will have logical progressions of summaries as a result!
+
+***NOTE: You will not be able to use the Google login functionality unless you contact us for the correct client keys.***
