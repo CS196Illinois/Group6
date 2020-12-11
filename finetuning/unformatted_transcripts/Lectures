@@ -1,0 +1,620 @@
+
+
+Transcript: Video 1:
+—Hermann Weyl
+The fundamental, root-of-it-all building block for linear algebra is the vector, so it's
+worth
+making sure that we're all on the same page about what exactly a vector is.
+You see, broadly
+speaking there are three distinct but related ideas about vectors, which I'll call the physics
+student perspective, the computer science student perspective, and the mathematician's
+perspective.
+The physics student perspective is that vectors are arrows pointing in space.
+What defines a given
+vector is its length, and the direction it's pointing in, but as long as those two facts
+are the
+same, you can move it all around and it's still the same vector.
+Vectors that live in the flat plane
+are two-dimensional, and those sitting in broader space that you and I live in are three-dimensional.
+The computer science perspective is that vectors are ordered lists of numbers.
+For example, let's
+say that you were doing some analytics about house prices, and the only features you cared
+about
+were square footage and price.
+You might model each house with a pair of numbers: the first
+indicating square footage, and the second indicating price.
+Notice that the order matters here.
+In the lingo, you'd be modelling houses as two-dimensional vectors, where in this context,
+"vector" is pretty much just a fancy word for "list", and what makes it two-dimensional
+is the fact
+that the length of that list is 2.
+The mathematician, on the other hand, seeks to generalise both of these views, basically
+saying that
+a vector can be anything where there's a sensible notion of adding two vectors, and multiplying
+a
+vector by a number, operations that I'll talk about later on in this video.
+The details of this view
+are rather abstract, and I actually think it's healthy to ignore it until the last video
+of this
+series, favoring a more concrete setting in the interim,
+but the reason that I bring it up here is that it hints at the fact that ideas of vector
+addition
+and multiplication by numbers will play an important role throughout linear algebra.
+But before I talk about those operations, let's just settle in on a specific thought
+to have in mind
+when I say the word "vector".
+Given the geometric focus that I'm shooting for here, whenever I
+introduce a new topic involving vectors, I want you to first think about an arrow—and
+specifically,
+think about that arrow inside a coordinate system, like the x-y plane, with its tail
+sitting at the origin.
+This is a little bit different from the physics student perspective, where vectors can freely
+sit
+anywhere they want in space.
+In linear algebra, it's almost always the case that your vector will be
+rooted at the origin.
+Then, once you understand a new concept in the context of arrows in space,
+we'll translate it over to the list-of-numbers point-of-view, which we can do by considering
+the coordinates of the vector.
+Now while I'm sure that many of you are familiar with this coordinate system, it's worth walking
+through explicitly, since this is where all of the important back-and-forth happens between
+the two
+perspectives of linear algebra.
+
+Summary: 
+While a Physics student sees a vector as an arrow in space having two qualities (magnitude and direction), a computer science student sees a vector as an ordered list.
+Example: Modeling Houses: if we were to model houses using their square footage and price, we would use a 2 dimensional vector since there are 2 types of data (order matters). 
+However, the broader mathematical perspective is that vectors are defined by their operations of vector addition and scalar multiplication. 
+For linear algebra, it helps to view any vector as an arrow sitting on the origin of the coordinate system (not freely like the physics perspective).
+
+Focusing our attention on two dimensions for the moment, you have a
+horizontal line, called the x-axis, and a vertical line, called the y-axis.
+The place where they
+intersect is called the origin, which you should think of as the center of space and
+the root of all vectors.
+After choosing an arbitrary length to represent 1, you make tick-marks on each axis to
+represent this distance.
+When I want to convey the idea of 2-D space as a whole, which you'll see
+comes up a lot in these videos, I'll extend these tick-marks to make grid-lines, but right
+now
+they'll actually get a little bit in the way.
+The coordinates of a vector is a pair of numbers that
+basically give instructions for how to get from the tail of that vector—at the origin—to
+its tip.
+The first number tells you how far to walk along the x-axis—positive numbers indicating
+rightward
+motion, negative numbers indicating leftward motion—and the second number tell you how
+far to walk
+parallel to the y-axis after that—positive numbers indicating upward motion, and negative
+numbers
+indicating downward motion.
+To distinguish vectors from points, the convention is to write this pair
+of numbers vertically with square brackets around them.
+Every pair of numbers gives you one and only one vector, and every vector is associated
+with one and
+only one pair of numbers.
+What about in three dimensions?
+Well, you add a third axis, called the z-axis,
+which is perpendicular to both the x- and y-axes, and in this case each vector is associated
+with an ordered triplet of numbers: the first tells you how far to move along the x-axis,
+the second
+tells you how far to move parallel to the y-axis, and the third one tells you how far
+to then move
+parallel to this new z-axis.
+Every triplet of numbers gives you one unique vector in space, and
+every vector in space gives you exactly one triplet of numbers.
+So back to vector addition, and multiplication by numbers.
+After all, every topic in linear algebra
+is going to center around these two operations.
+Luckily, each one is pretty straightforward to define.
+Let's say we have two vectors, one pointing up, and a little to the right, and the other
+one
+pointing right, and down a bit.
+To add these two vectors, move the second one so that its tail sits
+at the tip of the first one; then if you draw a new vector from the tail of the first one
+to where
+the tip of the second one now sits, that new vector is their sum.
+This definition of addition, by the way, is pretty much the only time in linear algebra
+where we let
+vectors stray away from the origin.
+
+Summary: How far a vector goes in each dimension is given by the number of tick marks it crosses in that direction. For 3D, it is essentially the same process with a Z dimension. 
+Vector addition: if we put two vectors together such that the tail of one is placed on the tip of the other, their sum is given by the vector going from the first vectors tail to the second vectors tip. 
+
+
+Now why is this a reasonable thing to do?—Why this definition of addition and not some other
+one?
+Well the way I like to think about it is that each vector represents a certain movement—a
+step with
+a certain distance and direction in space.
+If you take a step along the first vector,
+then take a step in the direction and distance described by the second vector, the overall
+effect is
+just the same as if you moved along the sum of those two vectors to start with.
+You could think about this as an extension of how we think about adding numbers on a
+number line.
+One way that we teach kids to think about this, say with 2+5, is to think of moving
+2 steps to the
+right, followed by another 5 steps to the right.
+The overall effect is the same as if you just took
+7 steps to the right.
+In fact, let's see how vector addition looks numerically.
+The first vector
+here has coordinates (1,2), and the second one has coordinates (3,-1).
+When you take the vector sum
+using this tip-to-tail method, you can think of a four-step path from the origin to the
+tip of the
+second vector: "walk 1 to the right, then 2 up, then 3 to the right, then 1 down."
+Re-organising
+these steps so that you first do all of the rightward motion, then do all of the vertical
+motion,
+you can read it as saying, "first move 1+3 to the right, then move 2+(-1) up," so the
+new vector has
+coordinates 1+3 and 2+(-1).
+In general, vector addition in this list-of-numbers conception looks
+like matching up their terms, and adding each one together.
+The other fundamental vector operation is multiplication by a number.
+Now this is best understood
+just by looking at a few examples.
+If you take the number 2, and multiply it by a given vector, it
+means you stretch out that vector so that it's 2 times as long as when you started.
+If you multiply
+that vector by, say, 1/3, it means you squish it down so that it's 1/3 of the original length.
+When you multiply it by a negative number, like -1.8, then the vector first gets flipped
+around,
+then stretched out by that factor of 1.8.
+This process of stretching or squishing or sometimes reversing the direction of a vector
+is called "scaling",
+and whenever you catch a number like 2 or 1/3 or -1.8 acting like this—scaling some
+vector—you call it a "scalar".
+In fact, throughout linear algebra, one of the main things that
+numbers do is scale vectors, so it's common to use the word "scalar" pretty much interchangeably
+with the word "number".
+Numerically, stretching out a vector by a factor of, say, 2, corresponds to
+multiplying each of its components by that factor, 2, so in the conception of vectors
+as
+lists of numbers, multiplying a given vector by a scalar means multiplying each one of
+those components by that scalar.
+Summary: Scalar Multiplication/Scaling: When a vector is multiplied by a number (scalar) stretches or compresses its magnitude by the scalar, and when the scalar is negative, the vector is flipped across the origin as well. 
+The essence of linear algebra is that we can freely move between the geometric interpretation of vectors and the data-based interpretation. 
+
+
+You'll see in the following videos what I mean when I say that linear algebra topics
+tend to revolve
+around these two fundamental operations: vector addition, and scalar multiplication; and I'll
+talk
+more in the last video about how and why the mathematician thinks only about these operations,
+independent and abstracted away from however you choose to represent vectors.
+In truth, it doesn't
+matter whether you think about vectors as fundamentally being arrows in space—like
+I'm suggesting
+you do—that happen to have a nice numerical representation, or fundamentally as lists
+of numbers
+that happen to have a nice geometric interpretation.
+The usefulness of linear algebra has less to do with
+either one of these views than it does with the ability to translate back and forth between
+them.
+It gives the data analyst a nice way to conceptualise many lists of numbers in a visual way,
+which can seriously clarify patterns in data, and give a global view of what certain operations
+do,
+and on the flip side, it gives people like physicists and computer graphics programmers
+a language
+to describe space and the manipulation of space using numbers that can be crunched and
+run through a computer.
+When I do math-y animations, for example, I start by thinking about what's actually
+going on in
+space, and then get the computer to represent things numerically, thereby figuring out where
+to
+place the pixels on the screen, and doing that usually relies on a lot of linear algebra
+understanding.
+So there are your vector basics, and in the next video I'll start getting into some pretty
+neat
+concepts surrounding vectors, like span, bases, and linear dependence.
+Summary: The essence of linear algebra is that we can freely move between the geometric interpretation of vectors and the data-based interpretation. 
+It is the language that lets us talk about changes to large amounts of data and space, while having nice geometric analogies.
+
+
+Transcript 2:
+In the last video, along with the ideas of vector addition and scalar multiplication,
+I described vector coordinates,
+where's this back and forth between, for example, pairs of numbers and two-dimensional vectors.
+Now, I imagine that vector coordinates were already familiar to a lot of you,
+but there's another kind of interesting way to think about these coordinates,
+which is pretty central to linear algebra.
+When you have a pair of numbers that's meant to describe a vector, like [3, -2],
+I want you to think about each coordinate as a scalar,
+meaning, think about how each one stretches or squishes vectors,
+In the xy-coordinate system, there are two very special vectors:
+the one pointing to the right with length 1, commonly called "i-hat", or the unit vector
+in the x-direction,
+and the one pointing straight up, with length 1, commonly called "j-hat",
+or the unit vector in the y-direction.
+Now, think of the x-coordinate of our vector as a scalar that scales i-hat, stretching
+it by a factor of 3,
+and the y-coordinate as a scalar that scales j-hat, flipping it and stretching it by a
+factor of 2.
+In this sense, the vectors that these coordinates describe is the sum of two scaled vectors.
+That's a surprisingly important concept, this idea of adding together two scaled vectors.
+Those two vectors, i-hat and j-hat, have a special name, by the way.
+Together, they're called the basis of a coordinate system
+What this means, basically, is that when you think about coordinates as scalars,
+the basis vectors are what those scalars actually, you know, scale.
+There's also a more technical definition, but I'll get to that later.
+By framing our coordinate system in terms of these two special basis vectors,
+it raises a pretty interesting, and subtle, point:
+We could've chosen different basis vectors, and gotten a completely reasonable, new coordinate
+system.
+For example, take some vector pointing up and to the right, along with
+some other vector pointing down and to the right, in some way.
+Take a moment to think about all the different vectors that you can get by choosing two scalars,
+using each one to scale one of the vectors, then adding together what you get.
+Which two-dimensional vectors can you reach by altering the choices of scalars?
+The answer is that you can reach every possible two-dimensional vector,
+and I think it's a good puzzle to contemplate why.
+A new pair of basis vectors like this still gives us a valid way to go back and forth
+between
+pairs of numbers and two-dimensional vectors,
+but the association is definitely different from the one that you get
+using the more standard basis of i-hat and j-hat.
+This is something I'll go into much more detail on later, describing the exact relationship
+between
+different coordinate systems, but for right now, I just want you to appreciate the fact
+that
+any time we describe vectors numerically, it depends on an implicit choice of what basis
+vectors we're using.
+
+Summary:
+While we started off by thinking of vectors as a number of steps in each direction of the x-y plane, there is another way to interpret a vector’s coordinates: we can view each coordinate as a scalar. 
+Usually, we think of these scalars as scaling the two fundamental vectors of the x-y plan, known as i-hat and j-hat. I-hat points 1 in the x direction, and j-hat points 1 in the y direction. 
+The vector that is described by the pair of coordinates can be thought of as the some of two scaled vectors, and in this case those vectors are i-hat and j-hat. I-hat and j-hat are called the basis vectors of the xy coordinate system, but they are not the only basis vectors we could choose.
+ If we choose a new set of basis, such as one vector pointing up and to the right and one pointing down and to the right, how many vectors can we describe as the sum of scaled versions of those vectors? We can describe every two-dimensional vector. 
+
+
+
+So any time that you're scaling two vectors and adding them like this,
+it's called a linear combination of those two vectors.
+Where does this word "linear" come from?
+Why does this have anything to do with lines?
+Well, this isn't the etymology, but one way I like to think about it is that
+if you fix one of those scalars, and let the other one change its value freely,
+the tip of the resulting vector draws a straight line.
+Now, if you let both scalars range freely, and consider every possible vector that you
+can get,
+there are two things that can happen:
+For most pairs of vectors, you'll be able to reach every possible point in the plane;
+every two-dimensional vector is within your grasp.
+However, in the unlucky case where your two original vectors happen to line up,
+the tip of the resulting vector is limited to just this single line passing through the
+origin.
+Actually, technically there's a third possibility too:
+both your vectors could be zero, in which case you'd just be stuck at the origin.
+Here's some more terminology:
+The set of all possible vectors that you can reach with a linear combination of a given
+pair of vectors
+is called the span of those two vectors.
+So, restating what we just saw in this lingo,
+the span of most pairs of 2-D vectors is all vectors of 2-D space,
+but when they line up, their span is all vectors whose tip sits on a certain line.
+Remember how I said that linear algebra revolves around vector addition and scalar multiplication?
+Well, the span of two vectors is basically a way of asking,
+"What are all the possible vectors you can reach using only these two fundamental operations,
+vector addition and scalar multiplication?"
+This is a good time to talk about how people commonly think about vectors as points.
+It gets really crowded to think about a whole collection of vectors sitting on a line,
+and more crowded still to think about all two-dimensional vectors all at once, filling
+up the plane.
+So when dealing with collections of vectors like this,
+it's common to represent each one with just a point in space.
+The point at the tip of that vector, where, as usual, I want you thinking about that vector
+with its tail on the origin.
+That way, if you want to think about every possible vector whose tip sits on a certain
+line,
+just think about the line itself.
+Likewise, to think about all possible two-dimensional vectors all at once,
+conceptualize each one as the point where its tip sits.
+So, in effect, what you'll be thinking about is the infinite, flat sheet of two-dimensional
+space itself,
+leaving the arrows out of it.
+In general, if you're thinking about a vector on its own, think of it as an arrow,
+and if you're dealing with a collection of vectors, it's convenient to think of them
+all as points.
+
+Summary:If we choose a new set of basis, such as one vector pointing up and to the right and one pointing down and to the right, how many vectors can we describe as the sum of scaled versions of those vectors? We can describe every two-dimensional vector. 
+Whenever we make a vector by adding two scaled vectors, we call the result a linear combination of the two vectors. One way to relate this to the concept of lines is that if you fix one of the scalars and allow the other to move, the path drawn out by the tip of the second vector is a line. 
+There are three cases for how the linear combinations of our basis can look. One, which is the most common, is that our vectors draw out the whole xy plane. The second is that our basis vectors point in the same (or completely opposite) directions, in which case they would draw out a line through the two vectors. 
+Finally, if both of our vectors are zero, we would just have a point at the origin. Span: The set of all vectors we can reach with the linear combination of two vectors. Span is connected to the two fundamental vector operations;
+
+
+So, for our span example, the span of most pairs of vectors ends up being
+the entire infinite sheet of two-dimensional space,
+but if they line up, their span is just a line.
+The idea of span gets a lot more interesting if we start thinking about vectors in three-dimensional
+space.
+For example, if you take two vectors, in 3-D space, that are not pointing in the same direction,
+what does it mean to take their span?
+Well, their span is the collection of all possible linear combinations of those two
+vectors, meaning
+all possible vectors you get by scaling each of the two of them in some way, and then adding
+them together.
+You can kind of imagine turning two different knobs to change the two scalars defining the
+linear combination,
+adding the scaled vectors and following the tip of the resulting vector.
+That tip will trace out some kind of flat sheet, cutting through the origin of three-dimensional
+space.
+This flat sheet is the span of the two vectors,
+or more precisely, the set of all possible vectors whose tips sit on that flat sheet
+is the span of your two vectors.
+Isn't that a beautiful mental image?
+So what happens if we add a third vector and consider the span of all three of those guys?
+A linear combination of three vectors is defined pretty much the same way as it is for two;
+you'll choose three different scalars, scale each of those vectors, and then add them all
+together.
+And again, the span of these vectors is the set of all possible linear combinations.
+Two different things could happen here:
+If your third vector happens to be sitting on the span of the first two,
+then the span doesn't change; you're sort of trapped on that same flat sheet.
+In other words, adding a scaled version of that third vector to the linear combination
+doesn't really give you access to any new vectors.
+But if you just randomly choose a third vector, it's almost certainly not sitting on the span
+of those first two.
+Then, since it's pointing in a separate direction,
+it unlocks access to every possible three-dimensional vector.
+One way I like to think about this is that as you scale that new third vector,
+it moves around that span sheet of the first two, sweeping it through all of space.
+Another way to think about it is that you're making full use of the three, freely-changing
+scalars that
+you have at your disposal to access the full three dimensions of space.
+Now, in the case where the third vector was already sitting on the span of the first two,
+or the case where two vectors happen to line up,
+we want some terminology to describe the fact that
+at least one of these vectors
+is redundant—not adding anything to our span.
+Summary: 
+In the three dimensional space the span of two vectors tends to trace out a sheet that slices through the origin. However, we can add a third vector in the same way, by adding that vector multiplied by an arbitrary scalar to our linear combination. 
+A couple things can happen with a third vector. If the third vector happens to accidentally fall on the span on the first two, nothing changes. However, if the third vector is not on the span of the first two, the span will trace out all of 3D space. Linearly dependent: when a vector doesn’t add anything to the span, because it already sits on the span of the combination. 
+
+
+Whenever this happens, where you have multiple vectors and you could remove one without reducing
+the span,
+the relevant terminology is to say that they are
+"linearly dependent".
+Another way of phrasing that would be to say that one of the vectors can be expressed as
+a linear combination of the others since it's already in the span of the others.
+On the other hand, if each vector really does add another dimension to the span,
+they're said to be "linearly independent".
+So with all of that terminology, and hopefully with some good mental images to go with it,
+let me leave you with puzzle before we go.
+The technical definition of a basis of a space is a set of linearly independent vectors that
+span that space.
+Now, given how I described a basis earlier,
+and given your current understanding of the words "span" and "linearly independent",
+think about why this definition would make sense.
+In the next video, I'll get into matrices and transforming space.
+
+Summary: Linearly independent: when a vector doesn’t sit on the span of the previous vectors, thereby adding something to the span of the vectors. Technical definition of basis of a space: a set of linearly independent vectors that span the full space. Using what we’ve learned, why does this definition make sense?
+
+
+
+Transcript 3: As you can probably tell by now, the bulk of this series is on understanding matrix
+and vector operations
+through that more visual lens of linear transformations.
+This video is no exception, describing the concepts of inverse matrices,
+column space, rank, and null space through that lens.
+A forewarning though: I'm not going to talk about the methods for actually computing these
+things,
+and some would argue that that's pretty important.
+There are a lot of very good resources for learning those methods outside this series.
+Keywords: "Gaussian elimination" and "Row echelon form."
+I think most of the value that I actually have to add here is on the intuition half.
+Plus, in practice, we usually get software to compute this stuff for us anyway.
+First, a few words on the usefulness of linear algebra.
+By now, you already have a hint for how it's used in describing the the manipulation of
+space,
+which is useful for things like computer graphics and robotics,
+but one of the main reasons that linear algebra is more broadly applicable,
+and required for just about any technical discipline,
+is that it lets us solve certain systems of equations.
+When I say "system of equations," I mean you have a list of variables, things you don't
+know,
+and a list of equations relating them.
+In a lot of situations, those equations can get very complicated,
+but, if you're lucky, they might take on a certain special form.
+Within each equation, the only thing happening to each variable is that it's scaled by some
+constant,
+and the only thing happening to each of those scaled variables is that they're added to
+each other.
+So, no exponents or fancy functions, or multiplying two variables together; things like that.
+The typical way to organize this sort of special system of equations
+is to throw all the variables on the left,
+and put any lingering constants on the right.
+It's also nice to vertically line up the common variables,
+and to do that you might need to throw in some zero coefficients whenever the variable
+doesn't show up in one of the equations.
+This is called a "linear system of equations."
+You might notice that this looks a lot like matrix vector multiplication.
+In fact, you can package all of the equations together into a single vector equation,
+where you have the matrix containing all of the constant coefficients, and a vector containing
+all of the variables,
+and their matrix vector product equals some different constant vector.
+Let's name that constant matrix A,
+denote the vector holding the variables with a boldface x,
+and call the constant vector on the right-hand side v.
+This is more than just a notational trick to get our system of equations written on
+one line.
+It sheds light on pretty cool geometric interpretation for the problem.
+The matrix A corresponds with some linear transformation, so solving Ax = v
+means we're looking for a vector x which, after applying the transformation, lands on
+V.
+Summary: Traditionally when we write a system, we line the variables up, multiplied by their respective scalars, and put the lingering constant on the right.
+ When written like this, we can visualize the linear system as a matrix multiplication equation: 
+we have a matrix containing the coefficients on the left multiplied by a vector containing the variables, and then we have a constant vector on the right.
+ We can think of A as a transformation, and the equations describes searching for a vector, x, which when transformed using A, gives us v.
+
+
+Think about what's happening here for a moment.
+You can hold in your head this really complicated idea of multiple variables all intermingling
+with each other
+just by thinking about squishing and morphing space and trying to figure out which vector
+lands on another.
+Cool, right?
+To start simple, let's say you have a system with two equations and two unknowns.
+This means that the matrix A is a 2x2 matrix,
+and v and x are each two dimensional vectors.
+Now, how we think about the solutions to this equation
+depends on whether the transformation associated with A squishes all of space into a lower
+dimension,
+like a line or a point,
+or if it leaves everything spanning the full two dimensions where it started.
+In the language of the last video, we subdivide into the case where A has zero determinant,
+and the case where A has nonzero determinant.
+Let's start with the most likely case, where the determinant is nonzero,
+meaning space does not get squished into a zero area region.
+In this case, there will always be one and only one vector that lands on v,
+and you can find it by playing the transformation in reverse.
+Following where v goes as we rewind the tape like this,
+you'll find the vector x such that A times x equals v.
+When you play the transformation in reverse, it actually corresponds to a separate linear
+transformation,
+commonly called "the inverse of A"
+denoted A to the negative one.
+For example, if A was a counterclockwise rotation by 90º
+then the inverse of A would be a clockwise rotation by 90º.
+If A was a rightward shear that pushes j-hat one unit to the right,
+the inverse of a would be a leftward shear that pushes j-hat one unit to the left.
+In general, A inverse is the unique transformation with the property that if you first apply
+A,
+then follow it with the transformation A inverse,
+you end up back where you started.
+Applying one transformation after another is captured algebraically with matrix multiplication,
+so the core property of this transformation A inverse is that A inverse times A
+equals the matrix that corresponds to doing nothing.
+The transformation that does nothing is called the "identity transformation."
+It leaves i-hat and j-hat each where they are, unmoved,
+so its columns are one, zero, and zero, one.
+Once you find this inverse, which, in practice, you do with a computer,
+you can solve your equation by multiplying this inverse matrix by v.
+And again, what this means geometrically is that you're playing the transformation in
+reverse, and following v.
+This nonzero determinant case, which for a random choice of matrix is by far the most
+likely one,
+corresponds with the idea that if you have two unknowns and two equations,
+it's almost certainly the case that there's a single, unique solution.
+Summary:
+In the later case, there will be exactly one vector x that solves the equation. The way we find this vector is by taking the solution vector and applying the transformation in reverse,
+ denoted by a matrix known as the inverse of A. Example: if A is a counterclockwise rotation of 90 degrees, A inverse is a clockwise rotation of 90 degrees.
+ The core property of this inverse matrix is that if you apply A inverse to A we get the matrix that corresponds to doing nothing, which is called the identity transformation.
+
+
+This idea also makes sense in higher dimensions,
+when the number of equations equals the number of unknowns.
+Again, the system of equations can be translated to the geometric interpretation
+where you have some transformation, A,
+and some vector, v,
+and you're looking for the vector x that lands on v.
+As long as the transformation A doesn't squish all of space into a lower dimension,
+meaning, its determinant is nonzero,
+there will be an inverse transformation, A inverse,
+with the property that if you first do A,
+then you do A inverse,
+it's the same as doing nothing.
+And to solve your equation, you just have to multiply that reverse transformation matrix
+by the vector v.
+But when the determinant is zero, and the transformation associated with this system
+of equations
+squishes space into a smaller dimension, there is no inverse.
+You cannot un-squish a line to turn it into a plane.
+At least, that's not something that a function can do.
+That would require transforming each individual vector
+into a whole line full of vectors.
+But functions can only take a single input to a single output.
+Similarly, for three equations in three unknowns,
+there will be no inverse if the corresponding transformation
+squishes 3D space onto the plane,
+or even if it squishes it onto a line, or a point.
+Those all correspond to a determinant of zero,
+since any region is squished into something with zero volume.
+It's still possible that a solution exists even when there is no inverse,
+it's just that when your transformation squishes space onto, say, a line,
+you have to be lucky enough that the vector v lives somewhere on that line.
+You might notice that some of these zero determinant cases feel a lot more restrictive than others.
+Given a 3x3 matrix, for example, it seems a lot harder for a solution to exist
+when it squishes space onto a line compared to when it squishes things onto a plane,
+even though both of those are zero determinant.
+We have some language that's a bit more specific than just saying "zero determinant."
+When the output of a transformation is a line, meaning it's one-dimensional,
+we say the transformation has a "rank" of one.
+If all the vectors land on some two-dimensional plane,
+We say the transformation has a "rank" of two.
+So the word "rank" means the number of dimensions in the output of a transformation.
+For instance, in the case of 2x2 matrices, rank 2 is the best that it can be.
+It means the basis vectors continue to span the full two dimensions of space, and the
+determinant is nonzero.
+But for 3x3 matrices, rank 2 means that we've collapsed,
+but not as much as they would have collapsed for a rank 1 situation.
+If a 3D transformation has a nonzero determinant, and its output fills all of 3D space,
+it has a rank of 3.
+
+Summary:
+This algorithm extends to matrices in higher dimensions: as long as the determinant of A is non-zero, there will be a matrix A inverse, and to solve for the variables we just have to multiply the solution vector by the inverse transformation matrix.
+ However, if the determinant is zero, meaning that the transformation given by A squishes space into a lower dimension, there is no function that can un-squish a line.
+ To do this, the function would have to transform each vector into a full line of vectors, which is impossible for a function because they can only map a single input to a single output.
+ However, a solution can still exist if the determinant is 0: if space is squished onto a line with the transformation, for there to be a solution, the solution has to be on that line.
+ Some cases are more restrictive than others; for instance, squishing space onto a line or point is much more restrictive than squishing it onto a plane.
+ We can describe the level of squishing in the zero determinant cases with the term “rank.” Rank: the number of dimensions in the output of a transformation.
+ In the 2x2 case, rank 2 is the best scenario, but for the three dimensional case, rank 2 would mean that we’ve condensed space into a smaller dimension.
+
+This set of all possible outputs for your matrix,
+whether it's a line, a plane, 3D space, whatever,
+is called the "column space" of your matrix.
+You can probably guess where that name comes from.
+The columns of your matrix tell you where the basis vectors land,
+and the span of those transformed basis vectors gives you all possible outputs.
+In other words, the column space is the span of the columns of your matrix.
+So, a more precise definition of rank would be that
+it's the number of dimensions in the column space.
+When this rank is as high as it can be,
+meaning it equals the number of columns, we call the matrix "full rank."
+Notice, the zero vector will always be included in the column space,
+since linear transformations must keep the origin fixed in place.
+For a full rank transformation, the only vector that lands at the origin is the zero vector
+itself,
+but for matrices that aren't full rank, which squish to a smaller dimension,
+you can have a whole bunch of vectors that land on zero.
+If a 2D transformation squishes space onto a line, for example,
+there is a separate line in a different direction,
+full of vectors that get squished onto the origin.
+If a 3D transformation squishes space onto a plane,
+there's also a full line of vectors that land on the origin.
+If a 3D transformation squishes all the space onto a line,
+then there's a whole plane full of vectors that land on the origin.
+This set of vectors that lands on the origin is called the "null space" or the "kernel"
+of your matrix.
+It's the space of all vectors that become null,
+in the sense that they land on the zero vector.
+In terms of the linear system of equations, when v happens to be the zero vector,
+the null space gives you all of the possible solutions to the equation.
+So that's a very high-level overview
+of how to think about linear systems of equations geometrically.
+Each system has some kind of linear transformation associated
+with it,
+and when that transformation has an inverse,
+you can use that inverse to solve your system.
+Otherwise, the idea of column space lets us understand when a solution even exists,
+and the idea of a null space helps us to understand what the set of
+all possible solutions can look like.
+Again there's a lot that I haven't covered here,
+most notably how to compute these things.
+I also had to limit my scope to examples where the number of equations
+equals the number of unknowns.
+But the goal here is not to try to teach everything;
+it's that you come away with a strong intuition for inverse matrices, column
+space, and null space,
+and that those intuitions make any future learning that you do more fruitful.
+
+Summary:In the 2x2 case, rank 2 is the best scenario, but for the three dimensional case, rank 2 would mean that we’ve condensed space into a smaller dimension.
+ Column Space: the set of all possible outputs for the Matrix multiplication, also is the span of the columns of the matrix. When the rank is equal to the number of columns, it is called full rank.
+ In a full tank transformation, the only vector that lands on the origin is the zero vector, but that isn’t the case for all transformations.
+ For instance, when the transformation squishes 2D space into a line, there is an entire line of vectors that is compressed to the origin rather than just one.
+ Null Space: the set of vectors that lands on the origin with a transformation, also known as the Kernel. 
+
+
