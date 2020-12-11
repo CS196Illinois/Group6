@@ -1,0 +1,8 @@
+flask
+flask_login
+datasets
+transformers
+pysqlite3
+requests
+oauthlib
+pytorch
