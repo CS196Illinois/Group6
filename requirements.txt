@@ -5,4 +5,4 @@ transformers
 pysqlite3
 requests
 oauthlib
-pytorch
+torch
