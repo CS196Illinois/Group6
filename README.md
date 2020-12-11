@@ -20,4 +20,4 @@ Unfortunately we ran out of time to implement the conversion of video files to a
 
 Feel free to play around with the `SpeechToText.py` file as well. 
 
-You will also need to limit the size of the chunks of text you wish to summarize. Our language model is only able to handle up to 1024 words at a time at the moment. You can summarize one section of each lecture at a time to overcome this. You will have logical progressions of summaries as a result!# Group6
+You will also need to limit the size of the chunks of text you wish to summarize. Our language model is only able to handle up to 1024 words at a time at the moment. You can summarize one section of each lecture at a time to overcome this. You will have logical progressions of summaries as a result!
