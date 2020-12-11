@@ -158,7 +158,7 @@ def indexSummary():
         data = request.form['transcript']
         length= int(request.form['length'])
         print(length)
-        return render_template(r'index.html', data=summarize(str(data), length), prefill=data)
+        return render_template(r'userpage.html', data=summarize(str(data), length), prefill=data, login="You're logged in! Welcome Back, " + current_user.name, profilepic=current_user.profile_pic)
         # return text from the webpage
 
 @app.route('/', methods = ["GET", "POST"])
